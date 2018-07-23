@@ -224,7 +224,7 @@ on the Website, or through any other relevant communication channels.
 appear.in may offer to send you promotional information by SMS, e-mail
 or other means of electronic communication. You may choose to opt in
 to receiving such such communication and can manage your consents in
-the Settings page on https://appear.in/user/settings.
+the Settings page on https://appear.in/user/profile.
 
 ## 7. Integrations
 
@@ -271,7 +271,7 @@ for any purpose, commercial or otherwise. You represent and warrant
 that you own any User Content submitted by you or that you otherwise
 are entitled to submit such User Content and to grant us such license.
 
-## 10. Termination
+## 9. Termination
 
 You may stop using our Service, by deleting your account in Settings
 on your personal account on the website. As a subscriber of the paid
@@ -284,7 +284,7 @@ the extent this is described on our [FAQ page](https://support.appear.in).
 No users are entitled to refunds upon termination due to breach of
 these Terms.
 
-## 11. Miscellaneous
+## 10. Miscellaneous
 
 **Disclaimer of warranty.** appear.in provides the Service to you as
 is. You acknowledge that the Service is not error-free. You use it at
