@@ -38,8 +38,8 @@ We in appear.in are committed to safeguarding the privacy of our
 users. Our business model is to provide a paid service to users who
 need additional features on top of the FREE version, and does not rely
 on widespread collection of general user data. We will only collect
-information that we need to deliver the service to you, and continue
-to maintain and develop the service.
+and process information that we need to deliver the service to you,
+and to continue to maintain and develop the service.
 
 appear.in may collect, store and process various kinds of data, with
 different legal grounds, as listed below. For the categories of data
@@ -66,8 +66,9 @@ the same purpose and legal ground:
 > website, providing our services, ensuring the security of our
 > website and services, maintaining back-ups of our databases and
 > communicating with you. This is required to deliver the Service to
-> you as user, by taking steps, at your request, to enter into such a
-> contract (Terms of Service) cf. GDPR art. 6 (1) b.
+> you as user, by taking steps, at your request, to enter into and to
+> fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1)
+> item b.
 
 * **Transaction information.** Customers that choose to purchase a
   paid version of the Services provide appear.in (and our payment
@@ -77,37 +78,38 @@ the same purpose and legal ground:
 > The transaction data may be processed for the purpose of supplying
 > the purchased services and keeping proper records of those
 > transactions. This data may be used for the purpose of delivering
-> the Services to you. Collecting this information is required for
-> performing the contract we entered into with you, at your request
-> (our Terms of Service) cf. GDPR art. 6 (1) b.Additionally, this
-> information needs to be retained in order to comply with accounting
-> and tax regulation cf. GDPR art. 6 (1) c.
+> the Services to you. Processing this information is required for
+> fulfilling the contract we entered into with you, at your request
+> (our Terms of Service) cf. GDPR art. 6 (1) item b. Additionally,
+> this information needs to be retained in order to comply with
+> accounting and tax regulation cf. GDPR art. 6 (1) item c.
 
 * **Usage information.** When you as a user interact with the
-  Services, we collect metadata to provide additional context about
-  the way the Service is being used. The usage data may include your
-  IP address, geographical location, browser type and version,
-  operating system, referral source, length of visit, page views and
-  website navigation paths, as well as information about the timing,
-  frequency and pattern of your service use. The source of the usage
-  data is our server software and our analytics tracking system.
-  * **Product Analytics data.** appear.in logs clicks when you as a
-    user interact with our websites or apps, when you visit a page,
-    room or have a conversation. We will never collect or record the
-    content in conversations.
+  Services, we collect and process metadata to provide additional
+  context about the way the Service is being used. The usage data may
+  include your IP address, geographical location, browser type and
+  version, operating system, referral source, length of visit, page
+  views and website navigation paths, as well as information about the
+  timing, frequency and pattern of your service use. The source of the
+  usage data is our server software and our analytics tracking system.
+  * **Product Analytics data.** appear.in logs activities by you and
+    other users when the users interact with our websites or apps,
+    when a page or a room is visited or where there is a
+    conversation. We will never collect or record the content in
+    conversations.
   * **Technical log data.** Like most digital services, our servers
-    automatically collect information when you access or use our
-    Websites or Services and record it in log files. This log data may
+    automatically collect information when Websites or Services are
+    accessed or used and record it in log files. This log data may
     include the Internet Protocol (IP) address, the address of the web
     page visited within the Services, browser type and settings, the
     date and time the Services were used, information about browser
     configuration and plugins, language preferences and cookie data.
-  * **Device information.** appear.in may collect information about
-    devices used to access the Services, including type of device,
-    what operating system is used, device settings, application IDs,
-    unique device identifiers and crash data. Whether we collect some
-    or all of this information depends on the type of device used and
-    its settings.
+  * **Device information.** appear.in may collect and process
+    information about devices used to access the Services, including
+    type of device, what operating system is used, device settings,
+    application IDs, unique device identifiers and crash data. Whether
+    we collect and process some or all of this information depends on
+    the type of device used and its settings.
   * **Location information.** We receive information from you and
     other third-parties that helps us approximate your location. We
     may, for example, use a business address submitted by your
@@ -116,8 +118,8 @@ the same purpose and legal ground:
     location information from devices in accordance with the consent
     process provided by your device.
 > The legal basis for this processing is our legitimate interests
-> cf. GDPR art. 6 (1) f, namely using this data for the purpose of
-> ensuring the proper administration of our website and business,
+> cf. GDPR art. 6 (1) item f, namely using this data for the purpose
+> of ensuring the proper administration of our website and business,
 > analyzing the use of the website and services, monitoring and
 > improving our website and services, improving the user experience,
 > preventing abuse, and assisting users with support inquiries. For
@@ -125,13 +127,13 @@ the same purpose and legal ground:
 > [Cookie Policy](https://appear.in/information/tos/cookie-policy).
 
 * **Customer Support Information.** We may process information that
-  you send to us, should you chose to submit a ticket to our support
+  you send to us, should you choose to submit a ticket to our support
   email.  If you contact us, we may use your Account, Room,
   Transaction or Usage Information to respond.
-> Collecting this information it is required for performing the
+> Processing this information it is required for performing the
 > contract we entered into with you, at your request (our Terms of
 > Service), as well as our legitimate interest of handling your
-> requests cf. GDPR art. 6 (1) f.
+> requests cf. GDPR art. 6 (1) item f.
 
 * **Product & Marketing communication.** We may process information
   that you provide to us for the purpose of subscribing to our email
@@ -140,18 +142,19 @@ the same purpose and legal ground:
   Consents” page.
 > The notification data may be processed for the purposes of sending
 > you relevant product information or newsletters. The legal basis for
-> this processing is your consent cf. GDPR art. 6 (1) a.
+> this processing is your consent cf. GDPR art. 6 (1) item a.
 
 * **Service and transactional notifications.** Sometimes we’ll send
   you emails about your account, service changes or new policies. You
   can’t opt out of this type of “service or transactional” emails
-  (unless you delete your account).
-> The legal grounds for collecting this information is that it is
+  (unless you delete your account) as they are necessary information
+  for the Services.
+> The legal grounds for processing this information is that it is
 > required for performing our commitment about communicating changes
 > in plans and pricing to you in the contract we entered into with
-> you, at your request (our Terms of Service) cf. GDPR art. 6 (1) b,
-> and our legitimate interest of communicating important information
-> about your account to you, cf. GDPR art. 6 (1) f.
+> you, at your request (our Terms of Service) cf. GDPR art. 6 (1) item
+> b, and our legitimate interest of communicating important
+> information about your account to you, cf. GDPR art. 6 (1) item f.
 
 * **Correspondence information.** We may process information that you
   choose to share with us if you participate in a focus group,
@@ -159,7 +162,7 @@ the same purpose and legal ground:
   social media accounts or otherwise communicate with appear.in
 > The correspondence data may be processed for the purposes of
 > communicating with you and record-keeping. The legal basis for this
-> processing is our legitimate interests cf. GDPR art. 6 (1) f, namely
+> processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely
 > the proper administration of our website and business and
 > communications with users.
 
@@ -204,12 +207,11 @@ of the video/audio streams.
 We may share information about with third parties in some
 circumstances, including: (1) with your consent; (2) to a service
 provider or partner who meets our data protection standards; (3) with
-academic or non-profit researchers, with aggregation, anonymization,
-or pseudonomization; (4) when we have a good faith belief it is
-required by law, such as pursuant to a subpoena or other legal
-process; (5) to protect the vital interest of others, when we have
-reason to believe that doing so will prevent harm to someone or
-illegal activities.
+academic or non-profit researchers, with aggregation, anonymization;
+(4) when we have a good faith belief it is required by law, such as
+pursuant to a subpoena or other legal process; (5) to protect the
+vital interest of others, when we have reason to believe that doing so
+will prevent harm to someone or illegal activities.
 
 Our categories of service providers and partners are:
 * Hosting/infrastructure/storage providers
@@ -239,7 +241,9 @@ that personal data that you submit for publication through our website
 or services may be available, via the internet, around the world. We
 cannot prevent the use (or misuse) of such personal data by
 others. For information about what types of content you as a user is
-responsible, see this FAQ article.
+responsible, see this
+[FAQ article](https://appearin.helpscoutdocs.com/article/188-what-types-of-content-am-i-as-a-user-responsible-for).
+
 
 We and our other group companies have offices and facilities in
 Norway, Sweden, United States. The hosting facilities for Account
@@ -266,10 +270,10 @@ periods for which your personal data will be retained. In such cases,
 we will determine the period of retention based on the following
 criteria:
 1. Account information, Room information will be retained until you
-   decide to delete your account or delete a room in appear.in
+   decide to delete your account or delete a room in appear.in.
 2. Information about you used for Product & Marketing communication
    will be retained as long as you have given us consent to use this
-   information
+   information.
 3. The period of retention of usage information will be determined
    based on the need for historical data to determine statistical
    validity and relevance for product decisions and technical
@@ -282,7 +286,14 @@ interests or the vital interests of another natural person.
 
 ## Changes to this policy
 
-We can change these Terms at any time. We keep a historical record of all changes to our Terms on GitHub. If a change is material, we’ll let you know before it takes effect. By using appear.in on or after that effective date, you agree to the new Terms. If you don’t agree to them, you should delete your account before they take effect, otherwise your use of the Service and Content will be subject to the new Terms.
+We can change these Terms at any time. We keep a historical record of
+all changes to our Terms on
+[GitHub](https://github.com/appearin/policy). If a change is material,
+we’ll let you know before it takes effect. By using appear.in on or
+after that effective date, you agree to the new Terms. If you don’t
+agree to them, you should delete your account before they take effect,
+otherwise your use of the Service and Content will be subject to the
+new Terms.
 
 ## Managing and deleting your personal information
 
@@ -317,10 +328,14 @@ https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_e
 To exercise your rights or if you otherwise have any questions
 regarding our processing of your personal data, we encourage you to
 contact us as described below. However, we also notify you that you
-may raise complaint to a data protection authority, e.g the
-supervisory authority where you live or the Norwegian Data Protection
-Authority. You may find further information on their website:
-https://www.datatilsynet.no/
+may raise complaint to a data protection authority. As a Norwegian
+company, appear.in uses the Norwegian Data Protection Authority
+(Datatilsynet) as a supervising authority. You may find further
+information on their website: https://www.datatilsynet.no/. You may
+contact your national/state supervisory authority, but appear.in will
+retain the Norwegian Data Protection Authority as our lead supervisory
+authority.
+
 
 ## Data protection officer
 
