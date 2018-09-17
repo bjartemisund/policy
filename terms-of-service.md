@@ -14,26 +14,30 @@ other materials sent, received, stored or otherwise appearing in the
 Service (collectively referred to as "Content"). Parts of the Service
 may display Content that is not appear.in's (“User Content”). Such
 content is the sole responsibility of the person or entity that has
-made it available.
+made it available. When "Content" is used in this document, it refers
+to both content provided by appear.in and User Content collectively,
+unless otherwise specified.
 
 Where applicable, "The Company" shall also be understood as a
 reference to affiliates, suppliers, partners and other third parties
 appear.in may engage or otherwise cooperate with in connection with
 the Service
 
-By using appear.in you agree to these General Terms and the Privacy
-Policy (collectively referred to as "Terms"). Please read them
-carefully. If you don’t agree to the Terms, you can’t use appear.in.
+By using appear.in you agree to these General Terms and the [Privacy
+Policy](https://appear.in/information/tos/privacy-policy/)
+(collectively referred to as "Terms"). Please read them carefully. If
+you don’t agree to the Terms, you can’t use appear.in.
 
-We can change these Terms at any time. We keep a historical record of
+We may change these Terms at any time. We keep a historical record of
 all changes to our Terms on GitHub. If a change is material, we’ll let
-you know before it takes effect. By using appear.in on or after that
-effective date, you agree to the new Terms. If you don’t agree to
-them, you should delete your account before they take effect,
-otherwise your use of the Service and Content will be subject to the
-new Terms. For paid versions of the Services or Content that you have
-already purchased, we will notify you at least 30 days prior to any
-material changes, including price changes.
+you know before it takes effect provided that we have your correct
+email address. By using appear.in on or after that effective date, you
+agree to the new Terms. If you don’t agree to them, you should delete
+your account before they take effect, otherwise your use of the
+Service and Content will be subject to the new Terms. For paid
+versions of the Services or Content that you have already purchased,
+we will notify you at least 30 days prior to any material changes,
+including price changes.
 
 ## 2. Age limitation
 
@@ -46,11 +50,12 @@ under 16 is using appear.in, we’ll terminate their account.
 appear.in is for legitimate individual use only (personal or business
 communication). Your use of appear.in requires that you have hardware,
 software and an Internet connection fulfilling certain recommended
-requirements, as may be specified in our FAQ. If the recommended
-requirements are not met, you may potentially still use the Service,
-but normally with a lower quality or performance. Such reduced quality
-or performance will not give you the right to claim any compensation
-from appear.in.
+requirements, as may be specified in
+[our FAQ](https://appearin.helpscoutdocs.com/article/180-supported-devices-browsers).
+If the recommended requirements are not met, you may potentially still
+use the Service, but normally with a lower quality or
+performance. Such reduced quality or performance will not give you the
+right to claim any compensation from appear.in.
 
 To use certain parts of the appear.in service, you will need to create
 a personal appear.in account. You may register an account by following
@@ -73,17 +78,17 @@ Service or your account, at any time, without notice. We reserve the
 right to impose limitations of use based on what we consider fair or
 legitimate usage, both for free and paying users.
 
-You are responsible for your use of the appear.in, including the
+You are responsible for your use of appear.in, including the
 lawfulness of any content displayed, shared, uploaded or otherwise
 made available by you in the Service (“the User Content”). User
 Content includes room names, and you are responsible for ensuring room
 names does not include Prohibited User Content (as listed below). Your
-room names are used to construct the the URLs identifying your rooms,
-and guests you invite and other third parties can (request to) enter
-your rooms based on these URLs. As these guests do not need to
-authenticate to appear.in in order to do this, please be aware that
-room names must be considered public information. Do not include
-information that you do not want to make public in room names.
+room names are used to construct the URLs identifying your rooms, and
+guests you invite and other third parties can (request to) enter your
+rooms based on these URLs. As these guests do not need to authenticate
+to appear.in in order to do this, please be aware that room names must
+be considered public information. Do not include information that you
+do not want to make public in room names.
 
 ### Restrictions on Content and Use of the Service
 We also reserve the right to access, read, preserve, and disclose any
@@ -205,12 +210,12 @@ services provided by Stripe.
 ## 5. Privacy and Personal Data
 
 When delivering the Service, appear.in will collect and process
-personal data about you and your use of the Service. The updated
-Privacy Policy is available on
-[this page](https://appear.in/information/tos/privacy-policy).  By
-using our Service, you agree that appear.in can use your personal data
-in accordance with our Privacy Policy and in accordance with the
-consents you have given us.
+personal data about you and your use of the Service. The Privacy
+Policy is available on [this
+page](https://appear.in/information/tos/privacy-policy).  By using our
+Service, you agree that appear.in can use your personal data in
+accordance with our Privacy Policy and in accordance with the consents
+you have given us.
 
 appear.in will comply with Norwegian and EU privacy regulations. 
 
@@ -223,8 +228,8 @@ on the Website, or through any other relevant communication channels.
 
 appear.in may offer to send you promotional information by SMS, e-mail
 or other means of electronic communication. You may choose to opt in
-to receiving such such communication and can manage your consents in
-the Settings page on https://appear.in/user/profile.
+to receiving such communication and can manage your consents in the
+Settings page on https://appear.in/user/profile.
 
 ## 7. Integrations
 
@@ -253,7 +258,7 @@ Except for the limited, personal, non-exclusive, non-transferable and
 revocable license granted to you for the sole purpose of your use of
 the Service in compliance with the Terms, you are not granted any
 ownership of or license to any intellectual property rights in our
-Service or in the content owned by us our our partners that you access
+Service or in the content owned by us our partners that you access
 through the Service.
 
 The trademarks, logos, domain names and any other similar signs or
@@ -286,16 +291,18 @@ these Terms.
 
 ## 10. Miscellaneous
 
-**Disclaimer of warranty.** appear.in provides the Service to you as
-is. You acknowledge that the Service is not error-free. You use it at
+**Disclaimer of warranty.** appear.in provides the Service to you "as
+is". You acknowledge that the Service is not error-free. You use it at
 your own risk and discretion. That means the Service doesn’t come with
-any warranty. None express, none implied. appear.in makes no
-warranties, expressed or implied, with respect to the availability,
-merchantability, fitness for a particular purpose, non-infringement,
-accuracy, completeness, performance and quality of the
-Service. appear.in will from time to time have to carry out updates
-and maintenance of the Service, due to technical, security or
-operational reasons, during which time the Service might be
+any warranty.  None express, none implied. The service will be
+continually developed, and you acknowledge that changes to
+functionality and layout may carried out without advance
+notice. appear.in makes no warranties, expressed or implied, with
+respect to the availability, merchantability, fitness for a particular
+purpose, non-infringement, accuracy, completeness, performance and
+quality of the Service. appear.in will from time to time have to carry
+out updates and maintenance of the Service, due to technical, security
+or operational reasons, during which time the Service might be
 unavailable. appear.in will make reasonable efforts to arrange updates
 and maintenance outside of peak usage hours.
 
