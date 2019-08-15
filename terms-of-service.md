@@ -103,7 +103,7 @@ public.
 We reserve the right to report illegal activity to applicable local
 authorities.
 
-Prohibited User Content includes, without limitation, content which: 
+Prohibited User Content includes, without limitation, content which:
 * is offensive, such as User Content that engages in, endorses or
   promotes racism, bigotry, discrimination, hatred, harassment or
   physical harm of any kind against any group or individual;
@@ -212,12 +212,12 @@ services provided by Stripe.
 When delivering the Service, appear.in will collect and process
 personal data about you and your use of the Service. The Privacy
 Policy is available on [this
-page](https://appear.in/information/tos/privacy-policy).  By using our
+page](https://whereby.com/information/tos/privacy-policy).  By using our
 Service, you agree that appear.in can use your personal data in
 accordance with our Privacy Policy and in accordance with the consents
 you have given us.
 
-appear.in will comply with Norwegian and EU privacy regulations. 
+appear.in will comply with Norwegian and EU privacy regulations.
 
 ## 6. Communication
 
