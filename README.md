@@ -1,7 +1,7 @@
-appear.in's Terms and Policies
+Whereby's Terms and Policies
 =====
 
-This is an archive of appear.in's current and historic Terms and Policies.
+This is an archive of Whereby's current and historic Terms and Policies.
 
 These documents are shared under a Creative Commons Sharealike
 license, so feel free to use these for your own services if you like

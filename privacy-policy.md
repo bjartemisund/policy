@@ -4,7 +4,7 @@ Effective date: May 25th, 2018
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
-Video Communication Services AS ("appear.in"/"we")
+Video Communication Services AS ("Whereby"/"we")
 
 Gate 1 no. 101, 6700 Måløy, Norway
 
@@ -13,16 +13,16 @@ Business organization number NO 918470573
 ## Introduction
 
 This policy describes what information we collect when you use
-appear.in’s sites, services, mobile applications, products, and
+Whereby’s sites, services, mobile applications, products, and
 content (“Services”). It also provides information about how we store,
 transfer, use, and delete that information, and what choices you have
 with respect to the information.
 
-This policy applies to appear.in’s online video meeting tool,
-including the website and mobile applications, and other appear.in
+This policy applies to Whereby’s online video meeting tool,
+including the website and mobile applications, and other Whereby
 websites (collectively “the Websites”), as well as other interaction
 (e.g. customer support conversations, user surveys and interviews
-etc.) you may have with appear.in.
+etc.) you may have with Whereby.
 
 This policy applies where we are acting as a Data Controller with
 respect to the personal data of users of our Services; in other words,
@@ -34,14 +34,14 @@ and that the content is not violating other users’ privacy.
 
 ## How we collect, process and store information
 
-We in appear.in are committed to safeguarding the privacy of our
+We in Whereby are committed to safeguarding the privacy of our
 users. Our business model is to provide a paid service to users who
 need additional features on top of the FREE version, and does not rely
 on widespread collection of general user data. We will only collect
 and process information that we need to deliver the service to you,
 and to continue to maintain and develop the service.
 
-appear.in may collect, store and process various kinds of data, with
+Whereby may collect, store and process various kinds of data, with
 different legal grounds, as listed below. For the categories of data
 that require your consent, we will actively ask you for consent before
 collecting any data. You can give and revoke your consents at any time
@@ -52,11 +52,11 @@ purpose and legal ground listed for each item or group of items having
 the same purpose and legal ground:
 
 * **User account information.** Users that choose to register in
-  appear.in, will have to provide a valid email address or phone
+  Whereby, will have to provide a valid email address or phone
   number. The user can also choose to enter a display name and/or add
   a profile picture that will be used to represent them in
   conversations.
-* **Room information.** To create a room in appear.in, you as a user
+* **Room information.** To create a room in Whereby, you as a user
   will have to select a room name. This name will be publicly visible,
   and will be used by other users accessing meetings in that room. You
   as a user is responsible for the content you enter into a room name,
@@ -71,7 +71,7 @@ the same purpose and legal ground:
 > item b.
 
 * **Transaction information.** Customers that choose to purchase a
-  paid version of the Services provide appear.in (and our payment
+  paid version of the Services provide Whereby (and our payment
   processors) with billing details such as credit card information,
   billing email, banking information, location at the time of
   transaction and/or a billing address.
@@ -92,7 +92,7 @@ the same purpose and legal ground:
   views and website navigation paths, as well as information about the
   timing, frequency and pattern of your service use. The source of the
   usage data is our server software and our analytics tracking system.
-  * **Product Analytics data.** appear.in logs activities by you and
+  * **Product Analytics data.** Whereby logs activities by you and
     other users when the users interact with our websites or apps,
     when a page or a room is visited or where there is a
     conversation. We will never collect or record the content in
@@ -104,7 +104,7 @@ the same purpose and legal ground:
     page visited within the Services, browser type and settings, the
     date and time the Services were used, information about browser
     configuration and plugins, language preferences and cookie data.
-  * **Device information.** appear.in may collect and process
+  * **Device information.** Whereby may collect and process
     information about devices used to access the Services, including
     type of device, what operating system is used, device settings,
     application IDs, unique device identifiers and crash data. Whether
@@ -114,7 +114,7 @@ the same purpose and legal ground:
     other third-parties that helps us approximate your location. We
     may, for example, use a business address submitted by your
     employer, or an IP address received from your browser or device to
-    determine approximate location. appear.in may also collect
+    determine approximate location. Whereby may also collect
     location information from devices in accordance with the consent
     process provided by your device.
 > The legal basis for this processing is our legitimate interests
@@ -159,7 +159,7 @@ the same purpose and legal ground:
 * **Correspondence information.** We may process information that you
   choose to share with us if you participate in a focus group,
   contest, activity or event, apply for a job, interact with our
-  social media accounts or otherwise communicate with appear.in
+  social media accounts or otherwise communicate with Whereby
 > The correspondence data may be processed for the purposes of
 > communicating with you and record-keeping. The legal basis for this
 > processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely
@@ -174,7 +174,7 @@ able to record meetings, and they are then responsible for collecting
 consents from all participants in the meeting prior to starting the
 recording. They are also responsible for storing and processing the
 recording in compliance with regulations after downloading it from
-appear.in.
+Whereby.
 
 ### Security
 In the FREE version of the Service, users can use “Small meeting” mode
@@ -247,7 +247,7 @@ responsible, see this
 
 We and our other group companies have offices and facilities in
 Norway, Sweden, United States. The hosting facilities for Account
-information stored by appear.in are situated in Ireland. The hosting
+information stored by Whereby are situated in Ireland. The hosting
 facilities for Usage information are situated in Ireland and the
 United States. Transfers to the United States will be protected by
 appropriate safeguards, namely the use of standard data protection
@@ -270,7 +270,7 @@ periods for which your personal data will be retained. In such cases,
 we will determine the period of retention based on the following
 criteria:
 1. Account information, Room information will be retained until you
-   decide to delete your account or delete a room in appear.in.
+   decide to delete your account or delete a room in Whereby.
 2. Information about you used for Product & Marketing communication
    will be retained as long as you have given us consent to use this
    information.
@@ -289,7 +289,7 @@ interests or the vital interests of another natural person.
 We can change these Terms at any time. We keep a historical record of
 all changes to our Terms on
 [GitHub](https://github.com/appearin/policy). If a change is material,
-we’ll let you know before it takes effect. By using appear.in on or
+we’ll let you know before it takes effect. By using Whereby on or
 after that effective date, you agree to the new Terms. If you don’t
 agree to them, you should delete your account before they take effect,
 otherwise your use of the Service and Content will be subject to the
@@ -297,7 +297,7 @@ new Terms.
 
 ## Managing and deleting your personal information
 
-If you have an appear.in account, you can access, modify or export
+If you have a Whereby account, you can access, modify or export
 your personal information, or delete your account in
 [Settings](https://whereby.com/user/profile). If you delete your
 account, your information and content will be unrecoverable after that
@@ -329,10 +329,10 @@ To exercise your rights or if you otherwise have any questions
 regarding our processing of your personal data, we encourage you to
 contact us as described below. However, we also notify you that you
 may raise complaint to a data protection authority. As a Norwegian
-company, appear.in uses the Norwegian Data Protection Authority
+company, Whereby uses the Norwegian Data Protection Authority
 (Datatilsynet) as a supervising authority. You may find further
 information on their website: https://www.datatilsynet.no/. You may
-contact your national/state supervisory authority, but appear.in will
+contact your national/state supervisory authority, but Whereby will
 retain the Norwegian Data Protection Authority as our lead supervisory
 authority.
 
