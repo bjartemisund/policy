@@ -8,4 +8,4 @@ license, so feel free to use these for your own services if you like
 them. Just remember to replace references to our company or product
 with the appropriate ones for you!
 
-Concact legal@appear.in in case of any questions!
+Concact legal@whereby.com in case of any questions!

@@ -46,7 +46,7 @@ cookies. If you block cookies, you may not be able to use all the
 features on our website, or have a worse experience. We have gathered
 information about how you can block and delete cookies and local
 storage elements in this
-[FAQ article](https://appearin.helpscoutdocs.com/article/187-how-do-i-block-or-delete-cookies).
+[FAQ article](https://support.whereby.com/article/187-how-do-i-block-or-delete-cookies).
 
 ## How we use cookies and local storage
 
@@ -69,7 +69,7 @@ We use cookies for the following purposes:
 | Advertising                 | We may use cookies and similar tracking technologies of third parties, to learn whether someone who saw an ad in a marketing platform later visited our site and took an action (e.g. created an account or upgraded to a paid plan), and provide our advertising partners with information about how the ad performed. We may also work with advertising partners to show you an ad off appear.in, after you've visited our site or application. |
 
 For the full list of cookies that appear.in and our providers use, see
-our [up-to-date cookie list](https://appearin.helpscoutdocs.com/article/192-cookie-list).
+our [up-to-date cookie list](https://support.whereby.com/article/192-cookie-list).
 
 ## Integrations
 

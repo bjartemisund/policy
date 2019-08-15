@@ -45,7 +45,7 @@ appear.in may collect, store and process various kinds of data, with
 different legal grounds, as listed below. For the categories of data
 that require your consent, we will actively ask you for consent before
 collecting any data. You can give and revoke your consents at any time
-in your Settings page in https://appear.in.
+in your Settings page in https://whereby.com.
 
 The following is a list of data we collect, process or store, with the
 purpose and legal ground listed for each item or group of items having
@@ -124,7 +124,7 @@ the same purpose and legal ground:
 > improving our website and services, improving the user experience,
 > preventing abuse, and assisting users with support inquiries. For
 > information about cookies and how to opt out of cookies, see our
-> [Cookie Policy](https://appear.in/information/tos/cookie-policy).
+> [Cookie Policy](https://whereby.com/information/tos/cookie-policy).
 
 * **Customer Support Information.** We may process information that
   you send to us, should you choose to submit a ticket to our support
@@ -242,7 +242,7 @@ or services may be available, via the internet, around the world. We
 cannot prevent the use (or misuse) of such personal data by
 others. For information about what types of content you as a user is
 responsible, see this
-[FAQ article](https://appearin.helpscoutdocs.com/article/188-what-types-of-content-am-i-as-a-user-responsible-for).
+[FAQ article](https://support.whereby.com/article/188-what-types-of-content-am-i-as-a-user-responsible-for).
 
 
 We and our other group companies have offices and facilities in
@@ -299,11 +299,11 @@ new Terms.
 
 If you have an appear.in account, you can access, modify or export
 your personal information, or delete your account in
-[Settings](https://appear.in/user/profile). If you delete your
+[Settings](https://whereby.com/user/profile). If you delete your
 account, your information and content will be unrecoverable after that
 time. You may instruct us at any time not to process your personal
 information for marketing purposes, by adjusting your [Privacy
-settings](https://appear.in/user/privacy/consents)). We may withhold
+settings](https://whereby.com/user/privacy/consents)). We may withhold
 personal information that you request to the extent permitted by law.
 
 ## Your rights
@@ -340,10 +340,10 @@ authority.
 ## Data protection officer
 
 Our data protection officer's contact details are: Arne Gleditsch,
-privacy@appear.in
+privacy@whereby.com
 
 To learn more, visit the
-[Privacy section in our FAQ](https://appearin.helpscoutdocs.com/category/186-privacy).
+[Privacy section in our FAQ](https://support.whereby.com/category/186-privacy).
 
 For any questions about this privacy policy, please contact
-legal@appear.in.
+legal@whereby.com.

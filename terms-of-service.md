@@ -24,7 +24,7 @@ appear.in may engage or otherwise cooperate with in connection with
 the Service
 
 By using appear.in you agree to these General Terms and the [Privacy
-Policy](https://appear.in/information/tos/privacy-policy/)
+Policy](https://whereby.com/information/tos/privacy-policy/)
 (collectively referred to as "Terms"). Please read them carefully. If
 you don’t agree to the Terms, you can’t use appear.in.
 
@@ -51,7 +51,7 @@ appear.in is for legitimate individual use only (personal or business
 communication). Your use of appear.in requires that you have hardware,
 software and an Internet connection fulfilling certain recommended
 requirements, as may be specified in
-[our FAQ](https://appearin.helpscoutdocs.com/article/180-supported-devices-browsers).
+[our FAQ](https://support.whereby.com/article/180-supported-devices-browsers).
 If the recommended requirements are not met, you may potentially still
 use the Service, but normally with a lower quality or
 performance. Such reduced quality or performance will not give you the
@@ -174,7 +174,7 @@ then be available to all users visiting the room, even if they’re
 anonymous. We reserve the right to change the features included in our
 plans, the price of the PRO plan and the structure of the plan at any
 time. You will find an updated overview of the content of the plan on
-our [Pricing page](https://appear.in/information/pricing). We will
+our [Pricing page](https://whereby.com/information/pricing). We will
 notify all paying users of material changes to the content, price and
 terms of the plan.
 
@@ -229,7 +229,7 @@ on the Website, or through any other relevant communication channels.
 appear.in may offer to send you promotional information by SMS, e-mail
 or other means of electronic communication. You may choose to opt in
 to receiving such communication and can manage your consents in the
-Settings page on https://appear.in/user/profile.
+Settings page on https://whereby.com/user/profile.
 
 ## 7. Integrations
 
@@ -285,7 +285,7 @@ have access to the Service for the remaining billing (pre-paid)
 period. The Company reserves the right to terminate the Service and
 the agreement with you with immediate effect upon written notice to
 you. Users of the paid PRO versions may be entitled to refunds and to
-the extent this is described on our [FAQ page](https://support.appear.in).
+the extent this is described on our [FAQ page](https://support.whereby.com).
 No users are entitled to refunds upon termination due to breach of
 these Terms.
 
@@ -357,8 +357,8 @@ The Terms were last updated May 25th, 2018.
 More questions?
 
 You will find answers to the most [frequently asked
-questions](https://support.appear.in) about the Service on the
-Website, or contact our support team at support@appear.in. Most
+questions](https://support.whereby.com) about the Service on the
+Website, or contact our support team at support@whereby.com. Most
 questions will be answered within 24 hours. For questions related to
-these Terms, contact legal@appear.in.
+these Terms, contact legal@whereby.com.
 
