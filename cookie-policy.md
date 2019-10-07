@@ -5,10 +5,10 @@ Last updated: May 25th, 2018
 ## General
 
 This Cookie Policy is an addendum to the Terms of Service and Privacy
-Policy of appear.in. Any definitions used in those Policies, will have
+Policy of Whereby. Any definitions used in those Policies, will have
 the same meaning in this Policy.
 
-This Policy outlines how appear.in uses Cookies and other tracking
+This Policy outlines how Whereby uses Cookies and other tracking
 technologies to run and deliver the service, and how you can choose
 which type of tracking to disable.
 
@@ -46,13 +46,13 @@ cookies. If you block cookies, you may not be able to use all the
 features on our website, or have a worse experience. We have gathered
 information about how you can block and delete cookies and local
 storage elements in this
-[FAQ article](https://appearin.helpscoutdocs.com/article/187-how-do-i-block-or-delete-cookies).
+[FAQ article](https://support.whereby.com/article/187-how-do-i-block-or-delete-cookies).
 
 ## How we use cookies and local storage
 
-appear.in uses cookies and local storage on our sites (appear.in and
+Whereby uses cookies and local storage on our sites (Whereby and
 any subpages) and mobile applications. Any browser visiting these
-sites will receive cookies from us. appear.in uses cookies and similar
+sites will receive cookies from us. Whereby uses cookies and similar
 technologies in our Websites and Services that help us collect
 information needed to run and deliver the Service.
 
@@ -62,19 +62,19 @@ We use cookies for the following purposes:
 
 | Categories of use           | Description |
 | --------------------------- | ----------- |
-| Authentication              | We use local storage to identify you when you visit our website and to authenticate calls our web application makes to the backend servers on your behalf. If you're signed in to appear.in, this helps us show you the right information and personalize your experience. (Local storage element used for this purpose is: “CredentialsStorage”) |
+| Authentication              | We use local storage to identify you when you visit our website and to authenticate calls our web application makes to the backend servers on your behalf. If you're signed in to Whereby, this helps us show you the right information and personalize your experience. (Local storage element used for this purpose is: “CredentialsStorage”) |
 | Analysis                    | We use cookies to help us analyze the usage patterns and performance of our website and services. We use services from Amplitude and Google Analytics for this purpose, see the cookie list for more details. |
 | Payment and Fraud detection | We use cookies to enable easy payment processing and to detect fraud through our payment processor Stripe Payments Europe, Ltd. (“Stripe”). See the cookie list for cookies related to this. |
 | Integrations                | We may use cookies in your browser to access and share content from third-party Integration Services that you choose to enable in the Service. Some integrations will not work for users who have blocked third-party cookies in their browser, as it will then not be possible for us to open the content from the Integration Service for them. (Cookies used for this purpose depends on which Integration Services you have enabled). |
-| Advertising                 | We may use cookies and similar tracking technologies of third parties, to learn whether someone who saw an ad in a marketing platform later visited our site and took an action (e.g. created an account or upgraded to a paid plan), and provide our advertising partners with information about how the ad performed. We may also work with advertising partners to show you an ad off appear.in, after you've visited our site or application. |
+| Advertising                 | We may use cookies and similar tracking technologies of third parties, to learn whether someone who saw an ad in a marketing platform later visited our site and took an action (e.g. created an account or upgraded to a paid plan), and provide our advertising partners with information about how the ad performed. We may also work with advertising partners to show you an ad off Whereby, after you've visited our site or application. |
 
-For the full list of cookies that appear.in and our providers use, see
-our [up-to-date cookie list](https://appearin.helpscoutdocs.com/article/192-cookie-list).
+For the full list of cookies that Whereby and our providers use, see
+our [up-to-date cookie list](https://support.whereby.com/article/192-cookie-list).
 
 ## Integrations
 
 We may make available integrations to other web-based services,
-allowing you to open those services inside appear.in. In order to use
+allowing you to open those services inside Whereby. In order to use
 third-party integrations in this category, it may be necessary for you
 to enable support for third-party cookies in your browser. The reason
 for this is that such integrations may depend on cookies to assert

@@ -5,33 +5,33 @@ Last updated: May 25th, 2018
 ## 1. General
 
 These General Terms apply generally to the use of the service
-appear.in (the "Service" or “appear.in”), and constitute a contract
+Whereby (the "Service" or “Whereby”), and constitute a contract
 between you and the company providing the Service, Video Communication
 Services AS, Gate 1 no. 101, 6700 Måløy, Norway ("The Company"). These
-terms govern your access to and use of the appear.in application and
+terms govern your access to and use of the Whereby application and
 website (the "Service"), and any video, sound, text, graphics, or
 other materials sent, received, stored or otherwise appearing in the
 Service (collectively referred to as "Content"). Parts of the Service
-may display Content that is not appear.in's (“User Content”). Such
+may display Content that is not Whereby's (“User Content”). Such
 content is the sole responsibility of the person or entity that has
 made it available. When "Content" is used in this document, it refers
-to both content provided by appear.in and User Content collectively,
+to both content provided by Whereby and User Content collectively,
 unless otherwise specified.
 
 Where applicable, "The Company" shall also be understood as a
 reference to affiliates, suppliers, partners and other third parties
-appear.in may engage or otherwise cooperate with in connection with
+Whereby may engage or otherwise cooperate with in connection with
 the Service
 
-By using appear.in you agree to these General Terms and the [Privacy
-Policy](https://appear.in/information/tos/privacy-policy/)
+By using Whereby you agree to these General Terms and the [Privacy
+Policy](https://whereby.com/information/tos/privacy-policy/)
 (collectively referred to as "Terms"). Please read them carefully. If
-you don’t agree to the Terms, you can’t use appear.in.
+you don’t agree to the Terms, you can’t use Whereby.
 
 We may change these Terms at any time. We keep a historical record of
 all changes to our Terms on GitHub. If a change is material, we’ll let
 you know before it takes effect provided that we have your correct
-email address. By using appear.in on or after that effective date, you
+email address. By using Whereby on or after that effective date, you
 agree to the new Terms. If you don’t agree to them, you should delete
 your account before they take effect, otherwise your use of the
 Service and Content will be subject to the new Terms. For paid
@@ -41,31 +41,31 @@ including price changes.
 
 ## 2. Age limitation
 
-appear.in is only for people **16 years old and over**. By using
-appear.in, you affirm that you are over 16. If we learn that someone
-under 16 is using appear.in, we’ll terminate their account.
+Whereby is only for people **16 years old and over**. By using
+Whereby, you affirm that you are over 16. If we learn that someone
+under 16 is using Whereby, we’ll terminate their account.
 
 ## 3. How you can use the Service
 
-appear.in is for legitimate individual use only (personal or business
-communication). Your use of appear.in requires that you have hardware,
+Whereby is for legitimate individual use only (personal or business
+communication). Your use of Whereby requires that you have hardware,
 software and an Internet connection fulfilling certain recommended
 requirements, as may be specified in
-[our FAQ](https://appearin.helpscoutdocs.com/article/180-supported-devices-browsers).
+[our FAQ](https://support.whereby.com/article/180-supported-devices-browsers).
 If the recommended requirements are not met, you may potentially still
 use the Service, but normally with a lower quality or
 performance. Such reduced quality or performance will not give you the
-right to claim any compensation from appear.in.
+right to claim any compensation from Whereby.
 
-To use certain parts of the appear.in service, you will need to create
-a personal appear.in account. You may register an account by following
+To use certain parts of the Whereby service, you will need to create
+a personal Whereby account. You may register an account by following
 the instructions on the Website or other instructions prompted to
 you. You are responsible for providing and maintaining accurate and
 updated personal information, and for safeguarding your account
 information. You may not select or use an identity of another person
 with the intent to impersonate that person. You must use a valid
-e-mail address, and appear.in reserves the right to verify this at any
-time. appear.in will not be liable for any loss or damage arising from
+e-mail address, and Whereby reserves the right to verify this at any
+time. Whereby will not be liable for any loss or damage arising from
 your failure to comply with the above requirements.
 
 Your account is strictly personal and shall not be used by any other
@@ -78,7 +78,7 @@ Service or your account, at any time, without notice. We reserve the
 right to impose limitations of use based on what we consider fair or
 legitimate usage, both for free and paying users.
 
-You are responsible for your use of appear.in, including the
+You are responsible for your use of Whereby, including the
 lawfulness of any content displayed, shared, uploaded or otherwise
 made available by you in the Service (“the User Content”). User
 Content includes room names, and you are responsible for ensuring room
@@ -86,7 +86,7 @@ names does not include Prohibited User Content (as listed below). Your
 room names are used to construct the URLs identifying your rooms, and
 guests you invite and other third parties can (request to) enter your
 rooms based on these URLs. As these guests do not need to authenticate
-to appear.in in order to do this, please be aware that room names must
+to Whereby in order to do this, please be aware that room names must
 be considered public information. Do not include information that you
 do not want to make public in room names.
 
@@ -103,7 +103,7 @@ public.
 We reserve the right to report illegal activity to applicable local
 authorities.
 
-Prohibited User Content includes, without limitation, content which: 
+Prohibited User Content includes, without limitation, content which:
 * is offensive, such as User Content that engages in, endorses or
   promotes racism, bigotry, discrimination, hatred, harassment or
   physical harm of any kind against any group or individual;
@@ -174,7 +174,7 @@ then be available to all users visiting the room, even if they’re
 anonymous. We reserve the right to change the features included in our
 plans, the price of the PRO plan and the structure of the plan at any
 time. You will find an updated overview of the content of the plan on
-our [Pricing page](https://appear.in/information/pricing). We will
+our [Pricing page](https://whereby.com/information/pricing). We will
 notify all paying users of material changes to the content, price and
 terms of the plan.
 
@@ -182,7 +182,7 @@ All payments shall be made in advance or otherwise as laid out on the
 Pricing page. If your payment is not successful, your room will be
 downgraded to the FREE plan with access to PRO features removed. If
 you have created more than 1 room during your PRO subscription, you
-will need to select one room to keep using with appear.in FREE.
+will need to select one room to keep using with Whereby FREE.
 Upgrading to PRO will start a recurring subscription, and you will be
 billed every month in advance, on the day of month the subscription
 was first created. You can cancel the subscription at any time in the
@@ -193,48 +193,48 @@ choose to re-activate your subscription during this period after
 cancellation, you will start a new subscription from the end date of
 the previous subscription, and will continue to have PRO features.
 
-Payment processing services for appear.in, including the processing
+Payment processing services for Whereby, including the processing
 and storing of credit card data, are provided by Stripe Payments
 Europe, Ltd. (“Stripe”) and are subject to the [Stripe Services
 Agreement — Norway](https://stripe.com/no/legal) (“Stripe Services
 Agreement”). By agreeing to these terms or continuing to operate as an
-appear.in PRO customer, you agree to be bound by the Stripe Services
+Whereby PRO customer, you agree to be bound by the Stripe Services
 Agreement, as the same may be modified by Stripe from time to time. As
-a condition of appear.in enabling payment processing services through
-Stripe, you agree to provide appear.in accurate and complete
-information about you and your business, and you authorize appear.in
+a condition of Whereby enabling payment processing services through
+Stripe, you agree to provide Whereby accurate and complete
+information about you and your business, and you authorize Whereby
 to share with Stripe Payments Europe, Ltd. this information and
 transaction information related to your use of the payment processing
 services provided by Stripe.
 
 ## 5. Privacy and Personal Data
 
-When delivering the Service, appear.in will collect and process
+When delivering the Service, Whereby will collect and process
 personal data about you and your use of the Service. The Privacy
 Policy is available on [this
-page](https://appear.in/information/tos/privacy-policy).  By using our
-Service, you agree that appear.in can use your personal data in
+page](https://whereby.com/information/tos/privacy-policy).  By using our
+Service, you agree that Whereby can use your personal data in
 accordance with our Privacy Policy and in accordance with the consents
 you have given us.
 
-appear.in will comply with Norwegian and EU privacy regulations. 
+Whereby will comply with Norwegian and EU privacy regulations.
 
 ## 6. Communication
 
-appear.in may need to send you information about the Service, such as
+Whereby may need to send you information about the Service, such as
 important service announcements and administrative messages, by SMS,
 e-mail or other means of electronic communication, by posting a notice
 on the Website, or through any other relevant communication channels.
 
-appear.in may offer to send you promotional information by SMS, e-mail
+Whereby may offer to send you promotional information by SMS, e-mail
 or other means of electronic communication. You may choose to opt in
 to receiving such communication and can manage your consents in the
-Settings page on https://appear.in/user/profile.
+Settings page on https://whereby.com/user/profile.
 
 ## 7. Integrations
 
 We may make available functionality allowing you to integrate other
-services (“Integration Service”) into appear.in. Usage of such
+services (“Integration Service”) into Whereby. Usage of such
 services will be governed by the Terms applicable for the Integration
 Service used.
 
@@ -242,14 +242,14 @@ When using the Service or third-party integrations to the Service, you
 may be exposed to commercial messages and advertisements. The Website
 and the Service may contain links to third party websites. These links
 are provided solely as a convenience to you and not as an endorsement
-by appear.in of the contents of such third party websites. appear.in
+by Whereby of the contents of such third party websites. Whereby
 excludes any responsibility for the content of linked third party
 websites.
 
 ## 8. Intellectual Property Rights
 
 All rights, title to and interest in the Service (excluding User
-Content) are and will remain the exclusive property of appear.in. The
+Content) are and will remain the exclusive property of Whereby. The
 Service and its content are protected by copyright and other
 intellectual property rights in the country you reside as well as
 foreign countries.
@@ -263,12 +263,12 @@ through the Service.
 
 The trademarks, logos, domain names and any other similar signs or
 symbols which are displayed on the Website or as part of the Service
-are the registered and unregistered marks of appear.in. Nothing in the
+are the registered and unregistered marks of Whereby. Nothing in the
 Terms grants you the right to use any such marks.
 
 You retain your rights to any Content you submit, post or display on
 or through the Service. By submitting User Content, you grant
-appear.in, or must procure that your licensors grant appear.in, a
+Whereby, or must procure that your licensors grant Whereby, a
 non-exclusive, royalty-free, perpetual, transferable, sub-licensable,
 irrevocable and worldwide license to use, reproduce, store, modify,
 distribute, publish and create derivative works of such User Content
@@ -285,43 +285,43 @@ have access to the Service for the remaining billing (pre-paid)
 period. The Company reserves the right to terminate the Service and
 the agreement with you with immediate effect upon written notice to
 you. Users of the paid PRO versions may be entitled to refunds and to
-the extent this is described on our [FAQ page](https://support.appear.in).
+the extent this is described on our [FAQ page](https://support.whereby.com).
 No users are entitled to refunds upon termination due to breach of
 these Terms.
 
 ## 10. Miscellaneous
 
-**Disclaimer of warranty.** appear.in provides the Service to you "as
+**Disclaimer of warranty.** Whereby provides the Service to you "as
 is". You acknowledge that the Service is not error-free. You use it at
 your own risk and discretion. That means the Service doesn’t come with
 any warranty.  None express, none implied. The service will be
 continually developed, and you acknowledge that changes to
 functionality and layout may carried out without advance
-notice. appear.in makes no warranties, expressed or implied, with
+notice. Whereby makes no warranties, expressed or implied, with
 respect to the availability, merchantability, fitness for a particular
 purpose, non-infringement, accuracy, completeness, performance and
-quality of the Service. appear.in will from time to time have to carry
+quality of the Service. Whereby will from time to time have to carry
 out updates and maintenance of the Service, due to technical, security
 or operational reasons, during which time the Service might be
-unavailable. appear.in will make reasonable efforts to arrange updates
+unavailable. Whereby will make reasonable efforts to arrange updates
 and maintenance outside of peak usage hours.
 
-**Limitation of Liability.** appear.in shall not be liable for any
+**Limitation of Liability.** Whereby shall not be liable for any
 damages, whether arising under law, contract, warranty,
 indemnification, tort or otherwise, including, without limitation,
 incidental and consequential damages, loss of profits or business
 opportunities, or damages resulting from loss of data or loss of
-access to the Service. In any event, appear.in's total liability shall
+access to the Service. In any event, Whereby's total liability shall
 not exceed the amount paid by you for the Service during the last 12
 months prior to the incident that causes the liability.
 
 **Indemnity.** You agree to indemnify, defend and hold harmless
-appear.in and its partners from all claims, liabilities and expenses
+Whereby and its partners from all claims, liabilities and expenses
 (including reasonable attorney's fees) that arise from your misuse of
-the Service in breach of the Terms or applicable laws. appear.in
+the Service in breach of the Terms or applicable laws. Whereby
 reserves the right, at its own expense, to assume the exclusive
 defense and control of any matter otherwise subject to indemnification
-by you. You shall cooperate in good faith with appear.in in asserting
+by you. You shall cooperate in good faith with Whereby in asserting
 any available defenses.
 
 **Partial invalidity.** If any provision of the Terms is declared
@@ -340,7 +340,7 @@ other than for the payment of money owing, for their failure to
 perform any of their contractual obligations arising out of or in
 connection with events of force majeure.
 
-**Assignment.** appear.in is entitled, in whole or in part, to assign
+**Assignment.** Whereby is entitled, in whole or in part, to assign
 its rights and obligations under the Terms to a third party at its own
 discretion.
 
@@ -357,8 +357,8 @@ The Terms were last updated May 25th, 2018.
 More questions?
 
 You will find answers to the most [frequently asked
-questions](https://support.appear.in) about the Service on the
-Website, or contact our support team at support@appear.in. Most
+questions](https://support.whereby.com) about the Service on the
+Website, or contact our support team at support@whereby.com. Most
 questions will be answered within 24 hours. For questions related to
-these Terms, contact legal@appear.in.
+these Terms, contact legal@whereby.com.
 
