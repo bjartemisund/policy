@@ -51,7 +51,7 @@ Whereby is for legitimate individual use only (personal or business
 communication). Your use of Whereby requires that you have hardware,
 software and an Internet connection fulfilling certain recommended
 requirements, as may be specified in
-[our FAQ](https://support.whereby.com/article/180-supported-devices-browsers).
+[our FAQ](https://support.whereby.com/article/318-supported-devices).
 If the recommended requirements are not met, you may potentially still
 use the Service, but normally with a lower quality or
 performance. Such reduced quality or performance will not give you the

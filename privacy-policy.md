@@ -242,7 +242,7 @@ or services may be available, via the internet, around the world. We
 cannot prevent the use (or misuse) of such personal data by
 others. For information about what types of content you as a user is
 responsible, see this
-[FAQ article](https://support.whereby.com/article/188-what-types-of-content-am-i-as-a-user-responsible-for).
+[Terms of Service](https://whereby.com/information/tos/).
 
 
 We and our other group companies have offices and facilities in

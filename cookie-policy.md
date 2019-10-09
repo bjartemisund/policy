@@ -46,7 +46,7 @@ cookies. If you block cookies, you may not be able to use all the
 features on our website, or have a worse experience. We have gathered
 information about how you can block and delete cookies and local
 storage elements in this
-[FAQ article](https://support.whereby.com/article/187-how-do-i-block-or-delete-cookies).
+[FAQ article](https://support.whereby.com/article/353-policies).
 
 ## How we use cookies and local storage
 
