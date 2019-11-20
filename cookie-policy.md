@@ -1,3 +1,7 @@
+---
+title: Cookie Policy
+slug: /information/tos/cookie-policy/
+---
 # Cookie Policy
 
 Last updated: May 25th, 2018

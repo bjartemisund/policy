@@ -1,4 +1,8 @@
-# Privacy policy
+---
+title: Privacy Policy
+slug: /information/tos/privacy-policy/
+---
+# Privacy Policy
 
 Effective date: May 25th, 2018
 

@@ -1,3 +1,7 @@
+---
+title: Terms of Service
+slug: /information/tos/
+---
 # Terms of Service
 
 Last updated: May 25th, 2018
