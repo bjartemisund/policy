@@ -59,7 +59,7 @@ the same purpose and legal ground:
   Whereby, will have to provide a valid email address or phone
   number. The user can also choose to enter a display name and/or add
   a profile picture that will be used to represent them in
-  conversations.
+  conversations. If you as a user choose to sign up with an external authentication service, e.g. Google Sign-In, we will fetch and store email address, name and profile image URL from this service. 
 * **Room information.** To create a room in Whereby, you as a user
   will have to select a room name. This name will be publicly visible,
   and will be used by other users accessing meetings in that room. You
@@ -143,7 +143,7 @@ the same purpose and legal ground:
   that you provide to us for the purpose of subscribing to our email
   newsletters. You can opt in to emails such as digests, newsletters,
   and activity notifications through your account’s “Settings >
-  Consents” page.
+  Privacy > Consents” page.
 > The notification data may be processed for the purposes of sending
 > you relevant product information or newsletters. The legal basis for
 > this processing is your consent cf. GDPR art. 6 (1) item a.
@@ -169,6 +169,21 @@ the same purpose and legal ground:
 > processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely
 > the proper administration of our website and business and
 > communications with users.
+
+**Integrations with external services** You as a participant in a meeting
+may choose to open one of the integrations we provide
+(Google Drive, YouTube, Trello and others) in rooms where these have been enabled. We may store data from use of integrations in a local browser storage, and process this to enrich the user experience. This data can be deleted with the delete option in the integration settings or by deleting it from the cache of your browser. When using an integration, metadada like title, thumbnail,
+dates and share permissions about content selected may be fetched and displayed in the web
+page. We may store non-personal/non-restricted information 
+(eg. content id and access date) in a local browser storage to display
+lists of recent opened integrations. Restricted metadata
+is always stored by the services themselves and requires explicit consent
+given by the facing user to fetch it. 
+> The information may be used for the purposes of operating our
+> website and providing our services. This is required to deliver the Service to
+> you as user, by taking steps, at your request, to enter into and to
+> fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1)
+> item b.
 
 ## How we process media (audio/video)
 
