@@ -4,7 +4,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: May 25th, 2018
+Effective date: February 19th, 2020
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
