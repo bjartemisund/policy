@@ -170,13 +170,17 @@ the same purpose and legal ground:
 > the proper administration of our website and business and
 > communications with users.
 
-**Integrations with external services** You as a participant in a meeting
-may choose to open one of the integrations we provide
-(Google Drive, YouTube, Trello and others) in rooms where these have been enabled. We may store data from use of integrations in a local browser storage, and process this to enrich the user experience. This data can be deleted with the delete option in the integration settings or by deleting it from the cache of your browser. When using an integration, metadada like title, thumbnail,
-dates and share permissions about content selected may be fetched and displayed in the web
-page. We may store non-personal/non-restricted information 
-(eg. content id and access date) in a local browser storage to display
-lists of recent opened integrations. Restricted metadata
+* **Integrations with external services** You as a participant in a meeting
+may choose to open one of the integrations we provide (Google Drive,
+YouTube, Trello and others) in rooms where these have been enabled. We may
+store data from use of integrations in a local browser storage, and process
+this to enrich the user experience. This data can be deleted with the
+delete option in the integration settings or by deleting it from the cache
+of your browser. When using an integration, metadada like title, thumbnail,
+dates and share permissions about content selected may be fetched and
+displayed in the web page. We may store non-personal/non-restricted
+information (eg. content id and access date) in a local browser storage
+to display lists of recent opened integrations. Restricted metadata
 is always stored by the services themselves and requires explicit consent
 given by the facing user to fetch it. 
 > The information may be used for the purposes of operating our
@@ -307,7 +311,7 @@ interests or the vital interests of another natural person.
 
 We can change these Terms at any time. We keep a historical record of
 all changes to our Terms on
-[GitHub](https://github.com/appearin/policy). If a change is material,
+[GitHub](https://github.com/whereby/policy). If a change is material,
 we’ll let you know before it takes effect. By using Whereby on or
 after that effective date, you agree to the new Terms. If you don’t
 agree to them, you should delete your account before they take effect,
