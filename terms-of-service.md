@@ -4,7 +4,7 @@ slug: /information/tos/
 ---
 # Terms of Service
 
-Last updated: December 1, 2019
+Last updated: March 18, 2020
 
 ## 1. General
 
@@ -244,7 +244,10 @@ Settings page on https://whereby.com/user/profile.
 We may make available functionality allowing you to integrate other
 services (“Integration Service”) into Whereby. Usage of such
 services will be governed by the Terms applicable for the Integration
-Service used.
+Service used. Currently these include [YouTube Terms of Service](https://whereby.com/information/tos/),
+[Google Drive Terms of Service](https://www.google.com/drive/terms-of-service/)
+and
+[Atlassian Terms of Service](https://www.atlassian.com/legal/cloud-terms-of-service).
 
 When using the Service or third-party integrations to the Service, you
 may be exposed to commercial messages and advertisements. The Website
