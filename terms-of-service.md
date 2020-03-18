@@ -244,7 +244,7 @@ Settings page on https://whereby.com/user/profile.
 We may make available functionality allowing you to integrate other
 services (“Integration Service”) into Whereby. Usage of such
 services will be governed by the Terms applicable for the Integration
-Service used. Currently these include [YouTube Terms of Service](https://whereby.com/information/tos/),
+Service used. Currently these include [YouTube Terms of Service](https://www.youtube.com/t/terms),
 [Google Drive Terms of Service](https://www.google.com/drive/terms-of-service/)
 and
 [Atlassian Terms of Service](https://www.atlassian.com/legal/cloud-terms-of-service).
