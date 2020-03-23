@@ -15,12 +15,11 @@ These General Terms apply generally to the use of the service
 Whereby (the "Service" or “Whereby”), and constitute a contract
 between you and the company providing the Service, Video Communication
 Services AS, Gate 1 no. 101, 6700 Måløy, Norway ("The Company"). These
-terms govern your access to and use of the Whereby application and
-website (the "Service"), and any video, sound, text, graphics, or
-other materials sent, received, stored or otherwise appearing in the
-Service (collectively referred to as "Content"). Parts of the Service
-may display Content that is not Whereby's (“User Content”). Such
-content is the sole responsibility of the person or entity that has
+terms govern your access to and use of the Service, and any video, sound,
+text, graphics, or other materials sent, received, stored or otherwise
+appearing in the Service (collectively referred to as "Content"). Parts
+of the Service may display Content that is not Whereby's (“User Content”).
+Such content is the sole responsibility of the person or entity that has
 made it available. When "Content" is used in this document, it refers
 to both content provided by Whereby and User Content collectively,
 unless otherwise specified.
@@ -28,7 +27,7 @@ unless otherwise specified.
 Where applicable, "The Company" shall also be understood as a
 reference to affiliates, suppliers, partners and other third parties
 Whereby may engage or otherwise cooperate with in connection with
-the Service
+the Service.
 
 By using Whereby you agree to these General Terms and the [Privacy
 Policy](https://whereby.com/information/tos/privacy-policy/)
