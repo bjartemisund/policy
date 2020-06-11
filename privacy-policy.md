@@ -4,7 +4,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: March 15th, 2020
+Effective date: June 25th, 2020
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
@@ -183,8 +183,9 @@ information (eg. content id and access date) in a local browser storage
 to display lists of recent opened integrations. Restricted metadata
 is always stored by the services themselves and requires explicit consent
 given by the facing user to fetch it. The implementation is in compliance with
-the services privacy policies: [Google Privacy Policy](http://www.google.com/policies/privacy) and
-[Trello Privacy policy](https://www.atlassian.com/legal/privacy-policy)
+the services privacy policies: [Google Privacy Policy](http://www.google.com/policies/privacy),
+[Trello Privacy Policy](https://www.atlassian.com/legal/privacy-policy) and
+[Miro Privacy Policy](https://miro.com/legal/privacy-policy/).
 > The information may be used for the purposes of operating our
 > website and providing our services. This is required to deliver the Service to
 > you as user, by taking steps, at your request, to enter into and to
