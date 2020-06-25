@@ -6,7 +6,7 @@ slug: /information/tos/
 
 Looking for the API Terms of Service? [View Whereby Meetings API Terms of Service](/information/tos/api/)
 
-Last updated: March 18, 2020
+Last updated: June 25, 2020
 
 ## 1. General
 
@@ -247,9 +247,9 @@ We may make available functionality allowing you to integrate other
 services (“Integration Service”) into Whereby. Usage of such
 services will be governed by the Terms applicable for the Integration
 Service used. Currently these include [YouTube Terms of Service](https://www.youtube.com/t/terms),
-[Google Drive Terms of Service](https://www.google.com/drive/terms-of-service/)
-and
-[Atlassian Terms of Service](https://www.atlassian.com/legal/cloud-terms-of-service).
+[Google Drive Terms of Service](https://www.google.com/drive/terms-of-service/),
+[Atlassian Terms of Service](https://www.atlassian.com/legal/cloud-terms-of-service) and
+[Miro](https://miro.com/legal/terms-of-service/).
 
 When using the Service or third-party integrations to the Service, you
 may be exposed to commercial messages and advertisements. The Website
