@@ -38,7 +38,7 @@ We may change these Terms at any time. We keep a historical record of
 all changes to our Terms on [GitHub](https://github.com/whereby/policy). If a change is material, we’ll let
 you know before it takes effect provided that we have your correct
 email address. By using Whereby on or after that effective date, you
-agree to the new Terms. If you don’t agree to them, you should [delete your account](https://whereby.helpscoutdocs.com/article/349-manage-your-account-profile-and-data)
+agree to the new Terms. If you don’t agree to them, you should [delete your account](https://whereby.helpscoutdocs.com/article/488-delete-account)
  before they take effect, otherwise your use of the
 Service and Content will be subject to the new Terms. For paid
 versions of the Services or Content that you have already purchased,
@@ -299,7 +299,7 @@ period. The Company reserves the right to terminate the Service and
 the agreement with you with immediate effect upon written notice to
 you. Users of the paid plans may be entitled to refunds and to
 the extent this is described on our [Support Center](https://support.whereby.com). No users are entitled to refunds upon termination due to breach of
-these Terms. What we consider Fair Use is described in our Support Center. We reserve the right to terminate accounts with usage that exceed the [Fair Use Policy](https://whereby.helpscoutdocs.com/article/353-policies). 
+these Terms. What we consider Fair Use is described in our Support Center. We reserve the right to terminate accounts with usage that exceed the [Fair Use Policy](https://whereby.helpscoutdocs.com/article/527-policies#fair-use).
 
 
 ## 10. Miscellaneous
