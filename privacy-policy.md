@@ -369,7 +369,7 @@ Our data protection officer's contact details are: Arne Gleditsch,
 privacy@whereby.com
 
 To learn more, visit the
-[Privacy section in our FAQ](https://support.whereby.com/category/186-privacy).
+[Privacy section in our FAQ](https://whereby.helpscoutdocs.com/article/526-data-storage-and-security).
 
 For any questions about this privacy policy, please contact
 legal@whereby.com.

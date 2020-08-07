@@ -50,7 +50,7 @@ cookies. If you block cookies, you may not be able to use all the
 features on our website, or have a worse experience. We have gathered
 information about how you can block and delete cookies and local
 storage elements in this
-[FAQ article](https://support.whereby.com/article/353-policies).
+[FAQ article](https://whereby.helpscoutdocs.com/article/527-policies).
 
 ## How we use cookies and local storage
 
@@ -73,7 +73,7 @@ We use cookies for the following purposes:
 | Advertising                 | We may use cookies and similar tracking technologies of third parties, to learn whether someone who saw an ad in a marketing platform later visited our site and took an action (e.g. created an account or upgraded to a paid plan), and provide our advertising partners with information about how the ad performed. We may also work with advertising partners to show you an ad off Whereby, after you've visited our site or application. |
 
 For the full list of cookies that Whereby and our providers use, see
-our [up-to-date cookie list](https://support.whereby.com/article/353-policies#cookies).
+our [up-to-date cookie list](https://whereby.helpscoutdocs.com/article/527-policies#cookies).
 
 ## Integrations
 
