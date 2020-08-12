@@ -4,8 +4,6 @@ slug: /information/tos/cookie-policy/
 ---
 # Cookie Policy
 
-Last updated: May 25th, 2018
-
 ## General
 
 This Cookie Policy is an addendum to the Terms of Service and Privacy
@@ -59,6 +57,8 @@ any subpages) and mobile applications. Any browser visiting these
 sites will receive cookies from us. Whereby uses cookies and similar
 technologies in our Websites and Services that help us collect
 information needed to run and deliver the Service.
+
+We use cookies and similar tracking technologies of third parties, to learn whether someone who saw an ad in a marketing platform later engaged with our site, and provide our advertising partners with information about how the ad performed. The advertising partners we currently work with are Google, YouTube, Facebook, Instagram, Twitter and LinkedIn. We use and process personal data as part of these cookies on the basis of your consent.
 
 ## Cookies and local storage that we use
 
