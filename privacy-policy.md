@@ -128,7 +128,7 @@ the same purpose and legal ground:
 > improving our website and services, improving the user experience,
 > preventing abuse, and assisting users with support inquiries. For
 > information about cookies and how to opt out of cookies, see our
-> [Cookie Policy](https://whereby.com/information/tos/cookie-policy).
+> [Cookie Policy](https://whereby.com/information/tos/cookie-policy/).
 
 * **Customer Support Information.** We may process information that
   you send to us, should you choose to submit a ticket to our support
@@ -183,7 +183,7 @@ information (eg. content id and access date) in a local browser storage
 to display lists of recent opened integrations. Restricted metadata
 is always stored by the services themselves and requires explicit consent
 given by the facing user to fetch it. The implementation is in compliance with
-the services privacy policies: [Google Privacy Policy](http://www.google.com/policies/privacy),
+the services privacy policies: [Google Privacy Policy](http://www.google.com/policies/privacy/),
 [Trello Privacy Policy](https://www.atlassian.com/legal/privacy-policy) and
 [Miro Privacy Policy](https://miro.com/legal/privacy-policy/).
 > The information may be used for the purposes of operating our
@@ -279,7 +279,7 @@ United States. Transfers to the United States will be protected by
 appropriate safeguards, namely the use of standard data protection
 clauses adopted or approved by the European Commission, a copy of
 which can be obtained from
-https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en.
+https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en.
 
 ## Retaining and deleting personal data
 

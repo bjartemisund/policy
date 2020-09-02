@@ -57,7 +57,7 @@ The Free version of Whereby is for legitimate individual use only (personal or b
 communication). Commercial use of Whereby as part of your own business offering requires one of our paid plans or the Meetings API. Your use of Whereby requires that you have hardware,
 software and an Internet connection fulfilling certain recommended
 requirements, as may be specified in
-[our Support Center](https://support.whereby.com).
+[our Support Center](https://whereby.helpscoutdocs.com).
 If the recommended requirements are not met, you may potentially still
 use the Service, but normally with a lower quality or
 performance. Such reduced quality or performance will not give you the
@@ -186,7 +186,7 @@ time.
 The Business plan requires creation of a custom subdomain (*company.whereby.com*) and allows you as the account creator to invite other users to create a profile in the account. By signing up for a Business account, you confirm that you are a legal representative, or are acting on behalf of such person, of the company name used in the account subdomain. You may not set up an account that impersonates or infringes on other’s trademarks. If your content or actions in the service or usage of our API violate any laws, including but not limited to spam, phishing, copyright infringement, defamation, computer attacks or fraud, we will terminate your service as soon as we find out.
 
 You will find an updated overview of the content of the plans on
-our [Pricing page](https://whereby.com/information/pricing). Details around use and billing of the Meetings API will be outlined in the Order Form you as a customer commit to. We will
+our [Pricing page](https://whereby.com/information/pricing/). Details around use and billing of the Meetings API will be outlined in the Order Form you as a customer commit to. We will
 notify all paying users of material changes to the content, price and
 terms of the plan.
 
@@ -206,7 +206,7 @@ choose to reactivate your subscription before the account is downgraded, you wil
 Payment processing services for Whereby, including the processing
 and storing of credit card data, are provided by Stripe Payments
 Europe, Ltd. (“Stripe”) and are subject to the [Stripe Services
-Agreement — Norway](https://stripe.com/no/legal) (“Stripe Services
+Agreement — Norway](https://stripe.com/en-no/legal) (“Stripe Services
 Agreement”). By agreeing to these terms and continuing to operate as a
 customer of a paid Whereby plan, you agree to be bound by the Stripe Services
 Agreement, as the same may be modified by Stripe from time to time. As
@@ -225,7 +225,7 @@ Service, you agree that Whereby can use your personal data in
 accordance with our Privacy Policy and in accordance with the consents
 you have given us. The Privacy
 Policy is available on [this
-page](https://whereby.com/information/tos/privacy-policy). 
+page](https://whereby.com/information/tos/privacy-policy/).
 
 Whereby will comply with Norwegian and EU privacy regulations.
 
@@ -298,7 +298,7 @@ have access to the Service for the remaining (pre-paid) billing
 period. The Company reserves the right to terminate the Service and
 the agreement with you with immediate effect upon written notice to
 you. Users of the paid plans may be entitled to refunds and to
-the extent this is described on our [Support Center](https://support.whereby.com). No users are entitled to refunds upon termination due to breach of
+the extent this is described on our [Support Center](https://whereby.helpscoutdocs.com). No users are entitled to refunds upon termination due to breach of
 these Terms. What we consider Fair Use is described in our Support Center. We reserve the right to terminate accounts with usage that exceed the [Fair Use Policy](https://whereby.helpscoutdocs.com/article/527-policies#fair-use).
 
 
@@ -368,7 +368,7 @@ district court of Oslo, Norway as the legal venue.
 More questions?
 
 You will find answers to the most [frequently asked
-questions](https://support.whereby.com) about the Service on the
+questions](https://whereby.helpscoutdocs.com) about the Service on the
 Website, or contact our support team at support@whereby.com. Most
 questions will be answered within 24 hours. For questions related to
 these Terms, contact legal@whereby.com.
