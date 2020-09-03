@@ -1,5 +1,6 @@
 ---
 title: Terms of Service
+description: Terms of Service – Read our Terms of Service to find out how we treat your data and information security, pricing, IP, integrations and how you can use our service.
 slug: /information/tos/
 ---
 # Terms of Service

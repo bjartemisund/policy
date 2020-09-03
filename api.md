@@ -1,5 +1,6 @@
 ---
 title: Terms of Service for Whereby Meetings API
+description: Terms of Service for Whereby Meetings API
 slug: /information/tos/api/
 ---
 
