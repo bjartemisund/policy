@@ -51,7 +51,7 @@ Customers app.
 
 The use of Whereby requires that the user has hardware, software and an
 Internet connection fulfilling certain recommended requirements, as may
-be specified in [our Support Center](https://support.whereby.com/). If
+be specified in [our Support Center](https://whereby.helpscoutdocs.com). If
 the recommended requirements are not met, the user may potentially still
 use the Service, but normally with lower quality or performance. Such
 reduced quality or performance will not give the Customer the right to
@@ -249,7 +249,7 @@ Agreement](https://d2qulvgqu65efe.cloudfront.net/Whereby_Data_Processing_Agreeme
 
 The processing of personal data is in addition subject to the Supplier’s
 Privacy Policy available on [this
-page](https://whereby.com/information/tos/privacy-policy).
+page](https://whereby.com/information/tos/privacy-policy/).
 
 ## 6. Confidentiality
 
