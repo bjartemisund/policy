@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+description: Privacy Policy – Our Privacy Policy explains how we use and keep your data, content and information secure, including how we store information and process media.
 slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy

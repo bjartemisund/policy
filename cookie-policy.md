@@ -1,5 +1,6 @@
 ---
 title: Cookie Policy
+description: Cookie Policy – Read how we use cookies on our website, how they work effectively and enhance the user experience on the Whereby website for our customers.
 slug: /information/tos/cookie-policy/
 ---
 # Cookie Policy
