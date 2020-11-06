@@ -1,17 +1,17 @@
 ---
-title: Terms of Service for Whereby Meetings API
-description: Terms of Service for Whereby Meetings API
+title: Terms of Service for Whereby Embedded
+description: Terms of Service for Whereby Embedded
 slug: /information/tos/api/
 ---
 
-# Terms of Service for Whereby Meetings API
+# Terms of Service for Whereby Embedded
 
-Last updated: April 28, 2020
+Last updated: November 6, 2020
 
 ## 1. Agreement
 
-These Terms of Service for Whereby Meetings API (“Terms”) apply to the
-use of the service Whereby Meeting API (the "Service" or “Whereby”), and
+These Terms of Service for Whereby Embedded (“Terms”) apply to the
+use of the service Whereby Embedded (the "Service" or “Whereby”), and
 constitute a contract between an individual or a company which shall
 receive and use the Service (the “Customer”) and the Supplier providing
 the Service, Video Communication Services AS, Gate 1 no. 101, 6700
@@ -46,7 +46,7 @@ The Service provided to the Customer by the Supplier is a developer API
 as an extension of the Business plan for the Customer to integrate
 Whereby in their own products or tools.
 
-The Whereby Meetings API creates one-time meeting rooms that are deleted
+Whereby Embedded creates one-time meeting rooms that are deleted
 after the meeting is over. These meetings can be embedded in the
 Customers app. 
 
@@ -172,7 +172,7 @@ Service.
 By using the Service, the Customer must enter into the Business plan for
 Whereby. 
 
-Details around use and billing of the Meetings API will be outlined in
+Details around use and billing of Whereby Embedded will be outlined in
 the Order Form the Customer commits to. The Supplier will notify all
 paying users of material changes to the content, price and terms of the
 plan.
