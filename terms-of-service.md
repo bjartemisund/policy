@@ -5,7 +5,7 @@ slug: /information/tos/
 ---
 # Terms of Service
 
-Looking for the API Terms of Service? [View Whereby Meetings API Terms of Service](/information/tos/api/)
+Looking for the API Terms of Service? [View Whereby Embedded Terms of Service](/information/tos/api/)
 
 Last updated: June 25, 2020
 
@@ -32,7 +32,7 @@ the Service
 
 By using Whereby you agree to these General Terms and the [Privacy
 Policy](https://whereby.com/information/tos/privacy-policy/)
-(collectively referred to as "Terms"). If you are a customer of the Business plan or Meetings API, the Terms also include a [Data Processing Agreement (PDF)](https://d2qulvgqu65efe.cloudfront.net/Whereby_Data_Processing_Agreement_Standard_Contract_Clauses_-_for_web.pdf). Please read them carefully. If
+(collectively referred to as "Terms"). If you are a customer of the Business plan or [Whereby Embedded](https://whereby.com/information/embedded/), the Terms also include a [Data Processing Agreement (PDF)](https://d2qulvgqu65efe.cloudfront.net/Whereby_Data_Processing_Agreement_Standard_Contract_Clauses_-_for_web.pdf). Please read them carefully. If
 you don’t agree to the Terms, you can’t use Whereby.
 
 We may change these Terms at any time. We keep a historical record of
@@ -50,12 +50,12 @@ including price changes.
 
 Whereby is only for people **16 years old and over**. By using
 Whereby, you affirm that you are over 16. If we learn that someone
-under 16 is using Whereby, we’ll terminate their account. For use in educational settings or use of our Meetings API in your own service, [contact us](mailto:sales@whereby.com).
+under 16 is using Whereby, we’ll terminate their account. For use in educational settings or use of our [Embedded product](https://whereby.com/information/embedded/) in your own service, [contact us](mailto:sales@whereby.com).
 
 ## 3. How you can use the Service
 
 The Free version of Whereby is for legitimate individual use only (personal or business
-communication). Commercial use of Whereby as part of your own business offering requires one of our paid plans or the Meetings API. Your use of Whereby requires that you have hardware,
+communication). Commercial use of Whereby as part of your own business offering requires one of our paid plans or the [Embedded product](https://whereby.com/information/embedded/). Your use of Whereby requires that you have hardware,
 software and an Internet connection fulfilling certain recommended
 requirements, as may be specified in
 [our Support Center](https://whereby.helpscoutdocs.com).
@@ -175,7 +175,7 @@ of such laws or regulations.
 
 ### Charging for Use of the Services
 The Service is available as a Free plan for personal use, a paid Pro
-plan for professional use by individuals, and a Business plan for professional use by teams or organizations. We also offer a developer API ("Meetings API") as an extension of the Business plan, for customers who want to integrate Whereby in their own products or tools. 
+plan for professional use by individuals, and a Business plan for professional use by teams or organizations. We also offer a developer API ("[Whereby Embedded](https://whereby.com/information/embedded/)") as an extension of the Business plan, for customers who want to integrate Whereby in their own products or tools. 
 
 As a Free user, you can at any time choose to upgrade your account, which will give you
 additional Pro features in the rooms you own. The Pro features will
@@ -187,7 +187,7 @@ time.
 The Business plan requires creation of a custom subdomain (*company.whereby.com*) and allows you as the account creator to invite other users to create a profile in the account. By signing up for a Business account, you confirm that you are a legal representative, or are acting on behalf of such person, of the company name used in the account subdomain. You may not set up an account that impersonates or infringes on other’s trademarks. If your content or actions in the service or usage of our API violate any laws, including but not limited to spam, phishing, copyright infringement, defamation, computer attacks or fraud, we will terminate your service as soon as we find out.
 
 You will find an updated overview of the content of the plans on
-our [Pricing page](https://whereby.com/information/pricing/). Details around use and billing of the Meetings API will be outlined in the Order Form you as a customer commit to. We will
+our [Pricing page](https://whereby.com/information/pricing/). Details around use and billing of the [Embedded product](https://whereby.com/information/embedded/) will be outlined in the Order Form you as a customer commit to. We will
 notify all paying users of material changes to the content, price and
 terms of the plan.
 
