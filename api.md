@@ -287,19 +287,15 @@ disclosures to the extent required by Laws or court order, provided that
 Party in advance and cooperates in any effort to obtain confidential
 treatment.
 
-## 7. Communication
+## 7. Communication and Support
 
-The Supplier may need to send the Customer information about the
-Service, such as important service announcements and administrative
-messages, by SMS, email or other means of electronic communication, by
-posting a notice on the website, or through any other relevant
-communication channels.
-
-The Supplier may offer to send the Customer promotional information by
-SMS, email or other means of electronic communication. The Customer may
-choose to opt in to receiving such communication and can manage the
-Customer's consents in the Settings page on
-[https://whereby.com/user/profile](https://whereby.com/user/profile).
+The customer will provide tier one support for their end users on the
+platform. The supplier will provide white label training material and
+guidance for support of video meetings to the customer. If further
+escalation is required to assist the end user, the supplier will provide
+support to the customer's service team rather than the end user. Any support
+of the end user directly will need to be in writing and include agreed upon
+terms by the Customer and Supplier. 
 
 ## 8. Marketing and Attribution
 
