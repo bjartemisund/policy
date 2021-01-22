@@ -289,11 +289,11 @@ treatment.
 
 ## 7. Communication and Support
 
-The customer will provide tier one support for their end users on the
-platform. The supplier will provide white label training material and
-guidance for support of video meetings to the customer. If further
-escalation is required to assist the end user, the supplier will provide
-support to the customer's service team rather than the end user. Any support
+The Customer will provide tier one support for their end users on the
+platform. The Supplier will provide white label training material and
+guidance for support of video meetings to the Customer. If further
+escalation is required to assist the end user, the Supplier will provide
+support to the Customer's service team rather than the end user. Any support
 of the end user directly will need to be in writing and include agreed upon
 terms by the Customer and Supplier. 
 
@@ -449,4 +449,3 @@ and interpreted in accordance with Norwegian law. Any dispute,
 controversy or claim arising out of or in connection with the Terms
 shall be subject to the jurisdiction of the Norwegian courts with the
 district court of Oslo, Norway as the legal venue.
-
