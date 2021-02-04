@@ -7,7 +7,7 @@ slug: /information/tos/
 
 Looking for the API Terms of Service? [View Whereby Embedded Terms of Service](/information/tos/api/)
 
-Last updated: June 25, 2020
+Last updated: February 4, 2021
 
 ## 1. General
 
@@ -285,9 +285,10 @@ Whereby, or must procure that your licensors grant Whereby, a
 non-exclusive, royalty-free, perpetual, transferable, sub-licensable,
 irrevocable and worldwide license to use, reproduce, store, modify,
 distribute, publish and create derivative works of such User Content
-for any purpose, commercial or otherwise. You represent and warrant
-that you own any User Content submitted by you or that you otherwise
-are entitled to submit such User Content and to grant us such license.
+for the purposes of providing, monitoring and improving our the Service.
+You represent and warrant that you own any User Content submitted by you
+or that you otherwise are entitled to submit such User Content and to
+grant us such license.
 
 ## 9. Termination
 
