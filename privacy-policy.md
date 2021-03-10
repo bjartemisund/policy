@@ -5,7 +5,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: June 25th, 2020
+Effective date: March 11th, 2021
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
@@ -61,6 +61,7 @@ the same purpose and legal ground:
   number. The user can also choose to enter a display name and/or add
   a profile picture that will be used to represent them in
   conversations. If you as a user choose to sign up with an external authentication service, e.g. Google Sign-In, we will fetch and store email address, name and profile image URL from this service. 
+  
 * **Room information.** To create a room in Whereby, you as a user
   will have to select a room name. This name will be publicly visible,
   and will be used by other users accessing meetings in that room. You
@@ -77,7 +78,7 @@ the same purpose and legal ground:
 
 * **Transaction information.** Customers that choose to purchase a
   paid version of the Services provide Whereby (and our payment
-  processors) with billing details such as credit card information,
+  processors, including debt collectors) with billing details such as credit card information,
   billing email, banking information, location at the time of
   transaction and/or a billing address.
 > The transaction data may be processed for the purpose of supplying
@@ -242,7 +243,7 @@ will prevent harm to someone or illegal activities.
 
 Our categories of service providers and partners are:
 * Hosting/infrastructure/storage providers
-* Payment processors
+* Payment processors, including debt collectors
 * Analysis tools providers
 * Customer Support tools providers
 * Marketing and email providers
