@@ -5,7 +5,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: March 2nd, 2021
+Effective date: March 11th, 2021
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
