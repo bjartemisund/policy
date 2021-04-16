@@ -5,11 +5,11 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: March 11th, 2021
+Effective date: April 16th, 2021
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
-Video Communication Services AS ("Whereby"/"we")
+Whereby AS ("Whereby"/"we")
 
 Gate 1 no. 101, 6700 Måløy, Norway
 
@@ -41,7 +41,7 @@ and that the content is not violating other users’ privacy.
 
 We in Whereby are committed to safeguarding the privacy of our
 users. Our business model is to provide a paid service to users who
-need additional features on top of the FREE version, and does not rely
+need additional features on top of the Free version, and does not rely
 on widespread collection of general user data. We will only collect
 and process information that we need to deliver the service to you,
 and to continue to maintain and develop the service.
@@ -205,30 +205,9 @@ recording in compliance with regulations after downloading it from
 Whereby.
 
 ### Security
-In the FREE version of the Service, users can use “Small meeting” mode
-(up to 4 participants). In “Small meeting” mode, communication between
-participants are primarily sent through peer-to-peer connections,
-where audio and video streams are sent directly between participants
-and do not pass through any of our servers. Video and audio
-transmitted in the Service is then sent directly between the
-participants in a room and is encrypted (DTLS-SRTP) with
-client-generated encryption keys. In cases where a user is behind a
-strict firewall or NAT, video and audio need to be relayed via a TURN
-server, but end-to-end encryption is still maintained.
+Rooms will by default be set to Group call mode. Group call mode is delivered over a dedicated server infrastructure to allow many people in conversation while ensuring good stability. Your stream will be sent through video router servers which transmits it to the other participants in the call, and also transmits their streams to you. Streams will always be encrypted (DTLS-SRTP) in transit, but will be decrypted and re-encrypted when passing through the video routers. We operate an infrastructure of video routers distributed across the world, and you will be automatically routed to the closest one. The video router servers and all of our infrastructure adhere to strict security measures, preventing any eavesdropping or interruption of the video/audio streams.
 
-If you have upgraded a room to PRO, you can choose to use “Large
-meeting” mode (up to 12 participants). Calls using “Large meeting”
-mode will use a dedicated server infrastructure to allow more people
-in conversation, and better stability. Your stream will be sent
-through video router servers which transmits it to the other
-participants in the call, and also transmits their streams to
-you. Streams will always be encrypted (DTLS-SRTP) in transit, but will
-be decrypted and re-encrypted when passing through the video
-routers. We operate an infrastructure of video routers distributed
-across the world, and you will be automatically routed to the closest
-one. The video router servers and all of our infrastructure adhere to
-strict security measures, preventing any eavesdropping or interruption
-of the video/audio streams.
+Users can also choose to use “Small meeting” mode in Room Settings if they wish to prioritise having end-to-end encryption over quality and stability. In “Small meeting” mode, communication between participants is primarily sent through peer-to-peer connections, where audio and video streams are sent directly between participants and do not pass through any of our servers. Video and audio transmitted in the Service is then sent directly between the participants in a room and is encrypted (DTLS-SRTP) with client-generated encryption keys. In cases where a user is behind a strict firewall or NAT, video and audio need to be relayed via a TURN server, but end-to-end encryption is still maintained.
 
 ## Providing your personal data to others
 
