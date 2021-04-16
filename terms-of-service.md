@@ -7,14 +7,13 @@ slug: /information/tos/
 
 Looking for the API Terms of Service? [View Whereby Embedded Terms of Service](/information/tos/api/)
 
-Last updated: February 4, 2021
+Last updated: April 16, 2021
 
 ## 1. General
 
 These General Terms apply generally to the use of the service
 Whereby (the "Service" or “Whereby”), and constitute a contract
-between you and the company providing the Service, Video Communication
-Services AS, Gate 1 no. 101, 6700 Måløy, Norway ("The Company"). These
+between you and the company providing the Service, Whereby AS, Gate 1 no. 107, 6700 Måløy, Norway ("The Company"). These
 terms govern your access to and use of the Service, and any video, sound,
 text, graphics, or other materials sent, received, stored or otherwise
 appearing in the Service (collectively referred to as "Content"). Parts
