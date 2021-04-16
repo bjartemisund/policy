@@ -14,7 +14,7 @@ These Terms of Service for Whereby Embedded (“Terms”) apply to the
 use of the service Whereby Embedded (the "Service" or “Whereby”), and
 constitute a contract between an individual or a company which shall
 receive and use the Service (the “Customer”) and the Supplier providing
-the Service, Video Communication Services AS, Gate 1 no. 101, 6700
+the Service, Whereby AS, Gate 1 no. 107, 6700
 Måløy, Norway (the “Supplier"). 
 
 These terms govern the Customer’s access to and use of the Whereby
