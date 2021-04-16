@@ -5,13 +5,13 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: March 11th, 2021
+Effective date: April 16th, 2021
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
-Video Communication Services AS ("Whereby"/"we")
+Whereby AS ("Whereby"/"we")
 
-Gate 1 no. 101, 6700 Måløy, Norway
+Gate 1 no. 107, 6700 Måløy, Norway
 
 Business organization number NO 918470573
 
@@ -41,16 +41,16 @@ and that the content is not violating other users’ privacy.
 
 We in Whereby are committed to safeguarding the privacy of our
 users. Our business model is to provide a paid service to users who
-need additional features on top of the FREE version, and does not rely
+need additional features on top of the Free version, and does not rely
 on widespread collection of general user data. We will only collect
 and process information that we need to deliver the service to you,
-and to continue to maintain and develop the service.
+and to continue to maintain and develop the service. If you are on a plan for professional use, we also collect public information about your company for our commercial purposes.
 
 Whereby may collect, store and process various kinds of data, with
 different legal grounds, as listed below. For the categories of data
 that require your consent, we will actively ask you for consent before
 collecting any data. You can give and revoke your consents at any time
-in your Settings page in https://whereby.com.
+in your [Settings page](https://whereby.com/user/privacy).
 
 The following is a list of data we collect, process or store, with the
 purpose and legal ground listed for each item or group of items having
@@ -127,28 +127,34 @@ the same purpose and legal ground:
 > cf. GDPR art. 6 (1) item f, namely using this data for the purpose
 > of ensuring the proper administration of our website and business,
 > analyzing the use of the website and services, monitoring and
-> improving our website and services, improving the user experience,
-> preventing abuse, and assisting users with support inquiries. For
+> improving our website and services, improving the user experience, detecting and correcting faults/errors, 
+> preventing abuse, and assisting users with support inquiries. When necessary
+> to assist you with your support inquiries, we may also process the data on
+> the basis that it is necessary to performing the contract we entered into
+> with you, at your request (our Terms of Service), cf. GDPR art. 6 (1) item b. When we process the data for security purposes, we do so on the basis 
+> of our legal obligations, cf. GDPR art. 6(1) item c, including our 
+> obligation to keep personal information secure. For
 > information about cookies and how to opt out of cookies, see our
-> [Cookie Policy](https://whereby.com/information/tos/cookie-policy/).
+> [Cookie Policy](https://whereby.com/information/tos/cookie-policy/). 
 
 * **Customer Support Information.** We may process information that
   you send to us, should you choose to submit a ticket to our support
   email.  If you contact us, we may use your Account, Room,
   Transaction or Usage Information to respond.
-> Processing this information it is required for performing the
+> Processing this information is required for performing the
 > contract we entered into with you, at your request (our Terms of
 > Service), as well as our legitimate interest of handling your
-> requests cf. GDPR art. 6 (1) item f.
+> requests cf. GDPR art. 6 (1) item f. Processing the
+> information you submit and our responses to you are also necessary to help
+> our customer support staff give each other feedback and learn, which
+> constitutes our legitimate interest cf. GDPR art. 6 (1) item f.
 
-* **Product & Marketing communication.** We may process information
-  that you provide to us for the purpose of subscribing to our email
-  newsletters. You can opt in to emails such as digests, newsletters,
-  and activity notifications through your account’s “Settings >
-  Privacy > Consents” page.
-> The notification data may be processed for the purposes of sending
-> you relevant product information or newsletters. The legal basis for
-> this processing is your consent cf. GDPR art. 6 (1) item a.
+* **Product & Marketing communication.** We may process information that you provide to us in the context of signing up to our service or a specific type of communication. We may process more information than this, but then we will be transparent upfront. You can control what information we send to you by changing your [Privacy settings](https://whereby.com/user/privacy). You also find a link to unsubscribe from our product and marketing e-mails at the bottom of each e-mail.
+> The legal basis for this processing is as a starting point our legitimate interest, cf. GDPR art. 6 (1) item f, in helping you put your new plan to use, sharing informational or exciting content, informing about product features, or giving you a good offer. If the processing requires your consent, cf. GDPR art 6 (1) item a, we will obtain it before we process your personal information.
+
+* **Public professional information.** If you are on a plan for professional use, we may also collect public information about your company. This may include information you make available through a public LinkedIn profile. We use this information to assess if we should contact your company. If you are an appropriate point of contact for your company we may seek additional public contact information through LinkedIn and Zoominfo. Both Zoominfo and LinkedIn allows you to know what data they have collected about you; you can find it [here](https://www.zoominfo.com/update/access) for Zoominfo and [here](https://www.linkedin.com/psettings/member-data) for LinkedIn.
+> The legal basis for processing professional information for the purposes
+> of initiating, maintaining or building a customer relatioship is our legitimate interest, cf. GDPR art.6 (1) item f. 
 
 * **Service and transactional notifications.** Sometimes we’ll send
   you emails about your account, service changes or new policies. You
@@ -205,30 +211,9 @@ recording in compliance with regulations after downloading it from
 Whereby.
 
 ### Security
-In the FREE version of the Service, users can use “Small meeting” mode
-(up to 4 participants). In “Small meeting” mode, communication between
-participants are primarily sent through peer-to-peer connections,
-where audio and video streams are sent directly between participants
-and do not pass through any of our servers. Video and audio
-transmitted in the Service is then sent directly between the
-participants in a room and is encrypted (DTLS-SRTP) with
-client-generated encryption keys. In cases where a user is behind a
-strict firewall or NAT, video and audio need to be relayed via a TURN
-server, but end-to-end encryption is still maintained.
+Rooms will by default be set to Group call mode. Group call mode is delivered over a dedicated server infrastructure to allow many people in conversation while ensuring good stability. Your stream will be sent through video router servers which transmits it to the other participants in the call, and also transmits their streams to you. Streams will always be encrypted (DTLS-SRTP) in transit, but will be decrypted and re-encrypted when passing through the video routers. We operate an infrastructure of video routers distributed across the world, and you will be automatically routed to the closest one. The video router servers and all of our infrastructure adhere to strict security measures, preventing any eavesdropping or interruption of the video/audio streams.
 
-If you have upgraded a room to PRO, you can choose to use “Large
-meeting” mode (up to 12 participants). Calls using “Large meeting”
-mode will use a dedicated server infrastructure to allow more people
-in conversation, and better stability. Your stream will be sent
-through video router servers which transmits it to the other
-participants in the call, and also transmits their streams to
-you. Streams will always be encrypted (DTLS-SRTP) in transit, but will
-be decrypted and re-encrypted when passing through the video
-routers. We operate an infrastructure of video routers distributed
-across the world, and you will be automatically routed to the closest
-one. The video router servers and all of our infrastructure adhere to
-strict security measures, preventing any eavesdropping or interruption
-of the video/audio streams.
+Users can also choose to use “Small meeting” mode in Room Settings if they wish to prioritise having end-to-end encryption over quality and stability. In “Small meeting” mode, communication between participants is primarily sent through peer-to-peer connections, where audio and video streams are sent directly between participants and do not pass through any of our servers. Video and audio transmitted in the Service is then sent directly between the participants in a room and is encrypted (DTLS-SRTP) with client-generated encryption keys. In cases where a user is behind a strict firewall or NAT, video and audio need to be relayed via a TURN server, but end-to-end encryption is still maintained.
 
 ## Providing your personal data to others
 
@@ -247,8 +232,14 @@ Our categories of service providers and partners are:
 * Analysis tools providers
 * Customer Support tools providers
 * Marketing and email providers
+* Co-marketing content providers
 * Recruiting tools providers
 * Internal communication tools providers
+
+We only share data with co-marketing content partners when you, at your
+own initiative, fill a form to obtain the content. We will make sure it
+is clear to you that we have developed the content with our partner and
+that the partner will also obtain relevant information.
 
 ### Business Transfers
 We may disclose your personal data to any member of our group of
@@ -274,14 +265,14 @@ responsible, see this
 
 
 We and our other group companies have offices and facilities in
-Norway, Sweden, United States. The hosting facilities for Account
+Norway, United Kingdom and United States. The hosting facilities for Account
 information stored by Whereby are situated in Ireland. The hosting
 facilities for Usage information are situated in Ireland and the
 United States. Transfers to the United States will be protected by
 appropriate safeguards, namely the use of standard data protection
 clauses adopted or approved by the European Commission, a copy of
 which can be obtained from
-https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en.
+https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en. 
 
 ## Retaining and deleting personal data
 
@@ -300,8 +291,9 @@ criteria:
 1. Account information, Room information will be retained until you
    decide to delete your account or delete a room in Whereby.
 2. Information about you used for Product & Marketing communication
-   will be retained as long as you have given us consent to use this
-   information.
+   will be retained until you opt-out or withdraw your opt-in. You
+   can change permissions through [Privacy
+settings](https://whereby.com/user/privacy).
 3. The period of retention of usage information will be determined
    based on the need for historical data to determine statistical
    validity and relevance for product decisions and technical
@@ -311,6 +303,15 @@ Regardless of the provisions above, we may retain your personal data
 where such retention is necessary for compliance with a legal
 obligation to which we are subject, or in order to protect your vital
 interests or the vital interests of another natural person.
+
+## Children
+
+Whereby is only for people 16 years old and over. By using Whereby, 
+you affirm that you are over 16. If we learn that someone under 16 is using
+Whereby, we’ll terminate their account. For use in educational settings or
+use of our Embedded product in your own service, 
+[contact us](https://whereby.com/information/embedded/). We encourage
+parents with concerns to contact us at legal@whereby.com.
 
 ## Changes to this policy
 
