@@ -34,7 +34,7 @@ in connection with the Service.
 
 By using the Service the Customer agrees to these General Terms and the
 Supplier’s standard [Data Processing
-Agreement](https://d2qulvgqu65efe.cloudfront.net/Whereby_Data_Processing_Agreement_Standard_Contract_Clauses_-_for_web.pdf),
+Agreement](https://whereby.helpscoutdocs.com/article/526-data-storage-and-security#dpa),
 hereunder the [Privacy Policy](/information/tos/privacy-policy/), for
 Whereby (collectively referred to as “Terms”). The Terms shall form an
 integral part of the Whereby Services Order Form issued by the Customer
@@ -246,7 +246,7 @@ of the Service. The Customer will be the data controller and the
 Supplier the data processor with regard to the processing of personal
 data. All processing of personal data by the Supplier will be subject to
 the Supplier’s standard [Data Processing
-Agreement](https://d2qulvgqu65efe.cloudfront.net/Whereby_Data_Processing_Agreement_Standard_Contract_Clauses_-_for_web.pdf). 
+Agreement](https://whereby.helpscoutdocs.com/article/526-data-storage-and-security#dpa). 
 
 The processing of personal data is in addition subject to the Supplier’s
 Privacy Policy available on [this
