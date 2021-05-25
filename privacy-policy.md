@@ -201,6 +201,8 @@ the services privacy policies: [Google Privacy Policy](http://www.google.com/pol
 > item b.
 
 ## How we process media (audio/video)
+Participants exchange media such as audio, video and screen sharing within meetings. We only process media to enable participants to use our Service; we do not process media for our own purposes.
+> The legal ground for processing media is to fulfill the contract (Terms of Service) cf. GDPR art. 6 (1) item b.
 
 We will never store any media sent between participants in a
 room. Customers who have access to the “Recording” feature will be
@@ -217,7 +219,7 @@ Users can also choose to use “Small meeting” mode in Room Settings if they w
 
 ## Providing your personal data to others
 
-We may share information about with third parties in some
+We may share information with third parties in some
 circumstances, including: (1) with your consent; (2) to a service
 provider or partner who meets our data protection standards; (3) with
 academic or non-profit researchers, with aggregation, anonymization;
