@@ -30,7 +30,7 @@ the Service.
 
 By using Whereby you agree to these General Terms and the [Privacy
 Policy](https://whereby.com/information/tos/privacy-policy/)
-(collectively referred to as "Terms"). If you are a customer of the Business plan or [Whereby Embedded](https://whereby.com/information/embedded/), the Terms also include a [Data Processing Agreement (PDF)](https://d2qulvgqu65efe.cloudfront.net/Whereby_Data_Processing_Agreement_Standard_Contract_Clauses_-_for_web.pdf). Please read them carefully. If
+(collectively referred to as "Terms"). If you are a customer of the Business plan or [Whereby Embedded](https://whereby.com/information/embedded/), the Terms also include a [Data Processing Agreement](https://whereby.helpscoutdocs.com/article/526-data-storage-and-security#dpa). Please read them carefully. If
 you don’t agree to the Terms, you can’t use Whereby.
 
 We may change these Terms at any time. We keep a historical record of
