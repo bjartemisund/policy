@@ -57,7 +57,7 @@ Whereby uses cookies and local storage on our sites (Whereby and
 any subpages) and mobile applications. Any browser visiting these
 sites will receive cookies from us. Whereby uses cookies and similar
 technologies in our Websites and Services that help us collect
-information needed to run and deliver the Service.
+information needed to run and deliver the Service. We also place cookies in e-mails.
 
 We use cookies and similar tracking technologies of third parties, to learn whether someone who saw an ad in a marketing platform later engaged with our site, and provide our advertising partners with information about how the ad performed. The advertising partners we currently work with are Google, YouTube, Facebook, Instagram, Twitter and LinkedIn. We use and process personal data as part of these cookies on the basis of your consent.
 
