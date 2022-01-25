@@ -5,7 +5,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: April 16th, 2021
+Effective date: April 15th, 2022
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
@@ -60,35 +60,35 @@ the same purpose and legal ground:
   Whereby, will have to provide a valid email address or phone
   number. The user can also choose to enter a display name and/or add
   a profile picture that will be used to represent them in
-  conversations. If you as a user choose to sign up with an external authentication service, e.g. Google Sign-In, we will fetch and store email address, name and profile image URL from this service. 
-  
+  conversations. If you as a user choose to sign up with an external authentication service, e.g. Google Sign-In, we will fetch and store email address, name and profile image URL from this service.
+
 * **Room information.** To create a room in Whereby, you as a user
   will have to select a room name. This name will be publicly visible,
   and will be used by other users accessing meetings in that room. You
   as a user is responsible for the content you enter into a room name,
   and the content has to be compliant with our guidelines for
   Prohibited Content in Terms of Services.
-> The information may be used for the purposes of operating our
-> website, providing our services, ensuring the security of our
-> website and services, maintaining back-ups of our databases and
-> communicating with you. This is required to deliver the Service to
-> you as user, by taking steps, at your request, to enter into and to
-> fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1)
-> item b.
+  > The information may be used for the purposes of operating our
+  > website, providing our services, ensuring the security of our
+  > website and services, maintaining back-ups of our databases and
+  > communicating with you. This is required to deliver the Service to
+  > you as user, by taking steps, at your request, to enter into and to
+  > fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1)
+  > item b.
 
 * **Transaction information.** Customers that choose to purchase a
   paid version of the Services provide Whereby (and our payment
   processors, including debt collectors) with billing details such as credit card information,
   billing email, banking information, location at the time of
   transaction and/or a billing address.
-> The transaction data may be processed for the purpose of supplying
-> the purchased services and keeping proper records of those
-> transactions. This data may be used for the purpose of delivering
-> the Services to you. Processing this information is required for
-> fulfilling the contract we entered into with you, at your request
-> (our Terms of Service) cf. GDPR art. 6 (1) item b. Additionally,
-> this information needs to be retained in order to comply with
-> accounting and tax regulation cf. GDPR art. 6 (1) item c.
+  > The transaction data may be processed for the purpose of supplying
+  > the purchased services and keeping proper records of those
+  > transactions. This data may be used for the purpose of delivering
+  > the Services to you. Processing this information is required for
+  > fulfilling the contract we entered into with you, at your request
+  > (our Terms of Service) cf. GDPR art. 6 (1) item b. Additionally,
+  > this information needs to be retained in order to comply with
+  > accounting and tax regulation cf. GDPR art. 6 (1) item c.
 
 * **Usage information.** When you as a user interact with the
   Services, we collect and process metadata to provide additional
@@ -123,60 +123,50 @@ the same purpose and legal ground:
     determine approximate location. Whereby may also collect
     location information from devices in accordance with the consent
     process provided by your device.
-> The legal basis for this processing is our legitimate interests
-> cf. GDPR art. 6 (1) item f, namely using this data for the purpose
-> of ensuring the proper administration of our website and business,
-> analyzing the use of the website and services, monitoring and
-> improving our website and services, improving the user experience, detecting and correcting faults/errors, 
-> preventing abuse, and assisting users with support inquiries. When necessary
-> to assist you with your support inquiries, we may also process the data on
-> the basis that it is necessary to performing the contract we entered into
-> with you, at your request (our Terms of Service), cf. GDPR art. 6 (1) item b. When we process the data for security purposes, we do so on the basis 
-> of our legal obligations, cf. GDPR art. 6(1) item c, including our 
-> obligation to keep personal information secure. For
-> information about cookies and how to opt out of cookies, see our
-> [Cookie Policy](https://whereby.com/information/tos/cookie-policy/). 
+    > The legal basis for this processing is our legitimate interests
+    > cf. GDPR art. 6 (1) item f, namely using this data for the purpose
+    > of ensuring the proper administration of our website and business,
+    > analyzing the use of the website and services, monitoring and
+    > improving our website and services, improving the user experience, detecting and correcting faults/errors,
+    > preventing abuse, and assisting users with support inquiries. When necessary
+    > to assist you with your support inquiries, we may also process the data on
+    > the basis that it is necessary to performing the contract we entered into
+    > with you, at your request (our Terms of Service), cf. GDPR art. 6 (1) item b. When we process the data for security purposes, we do so on the basis
+    > of our legal obligations, cf. GDPR art. 6(1) item c, including our
+    > obligation to keep personal information secure. For
+    > information about cookies and how to opt out of cookies, see our
+    > [Cookie Policy](https://whereby.com/information/tos/cookie-policy/).
 
 * **Customer Support Information.** We may process information that
   you send to us, should you choose to submit a ticket to our support
   email.  If you contact us, we may use your Account, Room,
   Transaction or Usage Information to respond.
-> Processing this information is required for performing the
-> contract we entered into with you, at your request (our Terms of
-> Service), as well as our legitimate interest of handling your
-> requests cf. GDPR art. 6 (1) item f. Processing the
-> information you submit and our responses to you are also necessary to help
-> our customer support staff give each other feedback and learn, which
-> constitutes our legitimate interest cf. GDPR art. 6 (1) item f.
+  > Processing this information is required for performing the
+  > contract we entered into with you, at your request (our Terms of
+  > Service), as well as our legitimate interest of handling your
+  > requests cf. GDPR art. 6 (1) item f. Processing the
+  > information you submit and our responses to you are also necessary to help
+  > our customer support staff give each other feedback and learn, which
+  > constitutes our legitimate interest cf. GDPR art. 6 (1) item f.
 
-* **Product & Marketing communication.** We may process information that you provide to us in the context of signing up to our service or a specific type of communication. We may process more information than this, but then we will be transparent upfront. You can control what information we send to you by changing your [Privacy settings](https://whereby.com/user/privacy). You also find a link to unsubscribe from our product and marketing e-mails at the bottom of each e-mail.
+* **Product & Marketing communication.** We may process information that you provide to us in the context of signing up to our service, trial or a specific type of communication. We may ask our customers to complete reviews or to speak about their experiences using our products. If we may process more information than this, we will be transparent upfront. You can control what information we send to you by changing your [Privacy settings](https://whereby.com/user/privacy). You also find a link to unsubscribe from our product and marketing e-mails at the bottom of each e-mail.
 > The legal basis for this processing is as a starting point our legitimate interest, cf. GDPR art. 6 (1) item f, in helping you put your new plan to use, sharing informational or exciting content, informing about product features, or giving you a good offer. If the processing requires your consent, cf. GDPR art 6 (1) item a, we will obtain it before we process your personal information.
 
-* **Public professional information.** If you are on a plan for professional use, we may also collect public information about your company. This may include information you make available through a public LinkedIn profile. We use this information to assess if we should contact your company. If you are an appropriate point of contact for your company we may seek additional public contact information through LinkedIn and Zoominfo. Both Zoominfo and LinkedIn allows you to know what data they have collected about you; you can find it [here](https://www.zoominfo.com/update/access) for Zoominfo and [here](https://www.linkedin.com/psettings/member-data) for LinkedIn.
-> The legal basis for processing professional information for the purposes
-> of initiating, maintaining or building a customer relatioship is our legitimate interest, cf. GDPR art.6 (1) item f. 
+* **Public professional information.** If you are on a plan for professional use, we may also collect public information about your company. This may include information you make available through a public LinkedIn profile. We use this information to assess if we should contact your company. If you are an appropriate point of contact for your company we may seek additional public contact information through LinkedIn and Zoominfo. Both Zoominfo and LinkedIn allows you to know what data they have collected about you; you can find it [here](https://www.zoominfo.com/update/access) for Zoominfo and [here](https://www.linkedin.com/psettings/member-data) for LinkedIn. Similar information may also be used for learning more about our job applicants where this is necessary to make decisions about their candidacy.
+> The legal basis for processing professional information for the purposes of initiating, maintaining or building a a contractual relationship is our legitimate interest, cf. GDPR art.6 (1) item f.
 
 * **Service and transactional notifications.** Sometimes we’ll send
   you emails about your account, service changes or new policies. You
   can’t opt out of this type of “service or transactional” emails
   (unless you delete your account) as they are necessary information
   for the Services.
-> The legal grounds for processing this information is that it is
-> required for performing our commitment about communicating changes
-> in plans and pricing to you in the contract we entered into with
-> you, at your request (our Terms of Service) cf. GDPR art. 6 (1) item
-> b, and our legitimate interest of communicating important
-> information about your account to you, cf. GDPR art. 6 (1) item f.
+  > The legal grounds for processing this information is that it is required for performing our commitment about communicating changes in plans and pricing to you in the contract we entered into with you, at your request (our Terms of Service) cf. GDPR art. 6 (1) item b, and our legitimate interest of communicating important information about your account to you, cf. GDPR art. 6 (1) item f.
 
 * **Correspondence information.** We may process information that you
   choose to share with us if you participate in a focus group,
   contest, activity or event, apply for a job, interact with our
   social media accounts or otherwise communicate with Whereby
-> The correspondence data may be processed for the purposes of
-> communicating with you and record-keeping. The legal basis for this
-> processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely
-> the proper administration of our website and business and
-> communications with users.
+  > The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely the proper administration of our website and business and communications with users.
 
 * **Integrations with external services** You as a participant in a meeting
 may choose to open one of the integrations we provide (Google Drive,
@@ -194,23 +184,21 @@ given by the facing user to fetch it. The implementation is in compliance with
 the services privacy policies: [Google Privacy Policy](http://www.google.com/policies/privacy/),
 [Trello Privacy Policy](https://www.atlassian.com/legal/privacy-policy) and
 [Miro Privacy Policy](https://miro.com/legal/privacy-policy/).
-> The information may be used for the purposes of operating our
-> website and providing our services. This is required to deliver the Service to
-> you as user, by taking steps, at your request, to enter into and to
-> fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1)
-> item b.
+> The information may be used for the purposes of operating our website and providing our services. This is required to deliver the Service to you as user, by taking steps, at your request, to enter into and to fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1) item b.
+
+* **Research information** We gather the data from and about the research subjects involved in the research we are conducting in relation to our product
+> The legal basis for this processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely the testing and improvement of our services.
+
+* **Investor information** We may process the data about our investors and potential investors visiting our data rooms.
+> The legal basis for this processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely the management of our company and its finances.
+
+Please note that, for some of our customers, we are the processor of the following and other data categories: Display Name, Email address, Admin user (yes / no), Organization affiliation (for personal user accounts associated with a Business account), Video rooms created, Room name, Profile picture, Background picture.
 
 ## How we process media (audio/video)
 Participants exchange media such as audio, video and screen sharing within meetings. We only process media to enable participants to use our Service; we do not process media for our own purposes.
 > The legal ground for processing media is to fulfill the contract (Terms of Service) cf. GDPR art. 6 (1) item b.
 
-We will never store any media sent between participants in a
-room. Customers who have access to the “Recording” feature will be
-able to record meetings, and they are then responsible for collecting
-consents from all participants in the meeting prior to starting the
-recording. They are also responsible for storing and processing the
-recording in compliance with regulations after downloading it from
-Whereby.
+We will not store any meeting recordings or media sent between participants in a room, except on a strictly transient basis where this is a necessary part of the transmission. Customers who have access to the “Recording” feature will be able to record meetings, and they are then responsible for collecting consents from all participants in the meeting prior to starting the recording. They are also responsible for storing and processing the recording in compliance with regulations after downloading it from Whereby.
 
 ### Security
 Rooms will by default be set to Group call mode. Group call mode is delivered over a dedicated server infrastructure to allow many people in conversation while ensuring good stability. Your stream will be sent through video router servers which transmits it to the other participants in the call, and also transmits their streams to you. Streams will always be encrypted (DTLS-SRTP) in transit, but will be decrypted and re-encrypted when passing through the video routers. We operate an infrastructure of video routers distributed across the world, and you will be automatically routed to the closest one. The video router servers and all of our infrastructure adhere to strict security measures, preventing any eavesdropping or interruption of the video/audio streams.
@@ -237,6 +225,8 @@ Our categories of service providers and partners are:
 * Co-marketing content providers
 * Recruiting tools providers
 * Internal communication tools providers
+* Law enforcement and judiciary based on a lawful order based on the jurisdiction we are subject to, or to combat unlawful use of our platform.
+
 
 We only share data with co-marketing content partners when you, at your
 own initiative, fill a form to obtain the content. We will make sure it
@@ -273,7 +263,7 @@ facilities for Usage information are situated in Ireland and the
 United States. Transfers to the United States will be protected by
 appropriate safeguards, namely the use of [Standard Contractual Clause (SCC)](
 https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)
-adopted or approved by the European Commission. 
+adopted or approved by the European Commission.
 
 Please note that, for new data transfers, we will continue to rely on
 the old SCCs until September 27,2021. For existing transfer, we will
@@ -314,10 +304,10 @@ interests or the vital interests of another natural person.
 
 ## Children
 
-Whereby is only for people 16 years old and over. By using Whereby, 
+Whereby is only for people 16 years old and over. By using Whereby,
 you affirm that you are over 16. If we learn that someone under 16 is using
 Whereby, we’ll terminate their account. For use in educational settings or
-use of our Embedded product in your own service, 
+use of our Embedded product in your own service,
 [contact us](https://whereby.com/information/embedded/). We encourage
 parents with concerns to contact us at legal@whereby.com.
 
