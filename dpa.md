@@ -33,6 +33,7 @@ This Data Protection Agreement ("DPA”) is part of the Whereby Terms of Service
 2. The data controller has the right and obligation to make decisions about the purposes and means of the processing of personal data.
 3. The data controller shall be responsible, among other things, for ensuring that the processing of personal data, which the data processor is instructed to perform, has a legal basis.
 
+
 ## 3. The data processor acts according to instructions
 
 1. The data processor shall process personal data only on documented instructions from the data controller, unless required to do so by Union or Member State law to which the data processor is subject. Such instructions shall be specified in appendices A and C. Subsequent instructions can also be given by the data controller throughout the duration of the processing of personal data, but such instructions shall always be documented and kept in writing, including electronically, in connection with the DPA.
