@@ -155,35 +155,18 @@ the same purpose and legal ground:
 * **Public professional information.** If you are on a plan for professional use, we may also collect public information about your company. This may include information you make available through a public LinkedIn profile. We use this information to assess if we should contact your company. If you are an appropriate point of contact for your company we may seek additional public contact information through LinkedIn and Zoominfo. Both Zoominfo and LinkedIn allows you to know what data they have collected about you; you can find it [here](https://www.zoominfo.com/update/access) for Zoominfo and [here](https://www.linkedin.com/psettings/member-data) for LinkedIn. Similar information may also be used for learning more about our job applicants where this is necessary to make decisions about their candidacy.
 > The legal basis for processing professional information for the purposes of initiating, maintaining or building a a contractual relationship is our legitimate interest, cf. GDPR art.6 (1) item f.
 
-* **Service and transactional notifications.** Sometimes we’ll send
-  you emails about your account, service changes or new policies. You
-  can’t opt out of this type of “service or transactional” emails
-  (unless you delete your account) as they are necessary information
-  for the Services.
-  > The legal grounds for processing this information is that it is required for performing our commitment about communicating changes in plans and pricing to you in the contract we entered into with you, at your request (our Terms of Service) cf. GDPR art. 6 (1) item b, and our legitimate interest of communicating important information about your account to you, cf. GDPR art. 6 (1) item f.
+* **Service and transactional notifications.** Sometimes we’ll send you emails about your account, service changes or new policies. You can’t opt out of this type of “service or transactional” emails (unless you delete your account) as they are necessary information for the Services.
+> The legal grounds for processing this information is that it is required for performing our commitment about communicating changes in plans and pricing to you in the contract we entered into with you, at your request (our Terms of Service) cf. GDPR art. 6 (1) item b, and our legitimate interest of communicating important information about your account to you, cf. GDPR art. 6 (1) item f.
 
-* **Correspondence information.** We may process information that you
-  choose to share with us if you participate in a focus group,
-  contest, activity or event, apply for a job, interact with our
-  social media accounts or otherwise communicate with Whereby
-  > The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely the proper administration of our website and business and communications with users.
+* **Correspondence information.** We may process information that you choose to share with us if you participate in a focus group, contest, activity or event, apply for a job, interact with our social media accounts or otherwise communicate with Whereby
+> The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests cf. GDPR art. 6 (1) item f, namely the proper administration of our website and business and communications with users.
 
-* **Integrations with external services** You as a participant in a meeting
-may choose to open one of the integrations we provide (Google Drive,
-YouTube, Trello and others) in rooms where these have been enabled. We may
-store data from use of integrations in a local browser storage, and process
-this to enrich the user experience. This data can be deleted with the
-delete option in the integration settings or by deleting it from the cache
-of your browser. When using an integration, metadada like title, thumbnail,
-dates and share permissions about content selected may be fetched and
-displayed in the web page. We may store non-personal/non-restricted
-information (eg. content id and access date) in a local browser storage
-to display lists of recent opened integrations. Restricted metadata
-is always stored by the services themselves and requires explicit consent
-given by the facing user to fetch it. The implementation is in compliance with
-the services privacy policies: [Google Privacy Policy](http://www.google.com/policies/privacy/),
-[Trello Privacy Policy](https://www.atlassian.com/legal/privacy-policy) and
-[Miro Privacy Policy](https://miro.com/legal/privacy-policy/).
+* **Integrations with external services** You as a participant in a meeting may choose to open one of the integrations we provide (Google Drive,
+YouTube, Trello and others) in rooms where these have been enabled. We may store data from use of integrations in a local browser storage, and process
+this to enrich the user experience. This data can be deleted with the delete option in the integration settings or by deleting it from the cache
+of your browser. When using an integration, metadada like title, thumbnail, dates and share permissions about content selected may be fetched and
+displayed in the web page. We may store non-personal/non-restricted information (eg. content id and access date) in a local browser storage
+to display lists of recent opened integrations. Restricted metadata is always stored by the services themselves and requires explicit consent given by the facing user to fetch it. The implementation is in compliance with the services privacy policies: [Google Privacy Policy](http://www.google.com/policies/privacy/), [Trello Privacy Policy](https://www.atlassian.com/legal/privacy-policy) and [Miro Privacy Policy](https://miro.com/legal/privacy-policy/).
 > The information may be used for the purposes of operating our website and providing our services. This is required to deliver the Service to you as user, by taking steps, at your request, to enter into and to fulfilling such a contract (Terms of Service) cf. GDPR art. 6 (1) item b.
 
 * **Research information** We gather the data from and about the research subjects involved in the research we are conducting in relation to our product
