@@ -6,8 +6,7 @@ slug: /information/tos/api/
 
 # Terms of Service for Whereby Embedded
 
-Last updated:  January 24,  2022
-
+Last updated:  January 24,  2022\
 Effective date: February 15, 2022
 
 ## 1. Agreement and Definitions
@@ -121,7 +120,7 @@ The Receiving Party’s confidentiality obligations will not apply to informatio
 
 When delivering the Service, Whereby may collect and process personal data about the Customer and the Customer’s and any user’s use of the Service as per the Privacy Policy which forms part of the Terms.  All processing of personal data by You shall be subject to Whereby’s Data Processing Agreement. Unless otherwise agreed, You shall be the data controller with regards to the processing of personal data. For selected data categories listed in the Data Processing Agreement, Whereby shall be a data controller.
 
-In the event of You becoming aware of any actual or alleged breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Confidential Information and technical configuration belonging to Whereby or its customers,  You shall notify the Whereby in writing without undue delay, and in any event within 72 hours to security@whereby.com and in compliance with Supplier’s Vulnerability disclosure policy found at [https://whereby.com/information/vdp/] https://whereby.com/information/vdp/.
+In the event of You becoming aware of any actual or alleged breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Confidential Information and technical configuration belonging to Whereby or its customers,  You shall notify the Whereby in writing without undue delay, and in any event within 72 hours to security@whereby.com and in compliance with Supplier’s Vulnerability disclosure policy found at https://whereby.com/information/vdp/.
 
 ## 9. Communication and Support
 
