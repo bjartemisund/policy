@@ -18,9 +18,9 @@ Since its inception, Whereby’s approach has been anchored with a strong commit
 
 We provide contractual commitments to our customers regarding our compliance with applicable EU data protection law. This guarantees that:
 
-* We only process personal data as identified in our [Privacy Policy](/information/tos/privacy-policy/) in order to deliver our services
-* We carry out a thorough assessment before adding any sub-processors and only add those who meet our data protection standards
-* We implement technical and organizational measures, that are based on industry best practices, to secure the data of our customers as outlined in our [Data Processing Agreement](/information/dpa/) (DPA)
+* We only process personal data as identified in our [Privacy Policy](/information/tos/privacy-policy/) in order to deliver our services,
+* We carry out a thorough assessment before adding any sub-processors and only add those who meet our data protection standards,
+* We implement technical and organizational measures, that are based on industry best practices, to secure the data of our customers as outlined in our [Data Processing Agreement](/information/dpa/) (DPA), and
 * We assist customers in exercising their rights pertaining to data we process for providing our service (such as right to information, access, rectification, data portability and deletion).
 
 We continue to monitor any legal developments and guidance around GDPR from regulatory bodies and update our existing policies and agreements regularly. We will update you of any changes in our obligations so that you are always up-to-date.
@@ -48,13 +48,13 @@ Besides end-to-end encryption described above (which is relevant for audio and v
 
 * Strong authentication
 
-If users are relying on email authentication or Single Sign on, they will receive a one-time-code in their mailbox.The one-time-code is not known by anybody at Whereby and it is randomly generated at the moment of the authentication request being sent. If users rely on Single Sign On, they will authenticate against the identity provider that they were already relying on (e.g Apple, Google). Therefore, it removes the need for end users to rely on passwords and removes the need for Whereby to store and process passwords, which greatly minimizes the risk of unauthorized user access if the Whereby databases are compromised. 
+If users are relying on email authentication or Single Sign on, they will receive a one-time-code in their mailbox.The one-time-code is not known by anybody at Whereby and it is randomly generated at the moment of the authentication request being sent. If users rely on Single Sign On, they will authenticate against the identity provider that they were already relying on (e.g Apple, Google). Therefore, it removes the need for end users to rely on passwords and removes the need for Whereby to store and process passwords, which greatly minimizes the risk of unauthorized user access if the Whereby databases are compromised.
 
-* Call recording:
+* Call recording
 
 The "Recording" add-on feature, which is available in the Pro and Business plans, only allows user-side recording, so the recording is never uploaded to Whereby’s servers. The user who starts the recording (the user must be a host in order to do this) is responsible for getting consent from all participants prior to starting the recording. They are also responsible for storing and processing the recording in compliance with regulations after downloading it from Whereby.
 
-* Chat messages:
+* Chat messages
 
 Chat messages are not stored permanently. In order to pass the messages to each participant in the call, the messages pass through Whereby's servers temporarily. However, all of the messages are deleted from the server as soon as it has been delivered to the participant's device.  Additionally, as each participant leaves the room, the chat messages that were stored locally on their computer are deleted. Customers using the video meetings API will have the option to disable chat entirely.
 
