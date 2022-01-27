@@ -18,9 +18,9 @@ Since its inception, Whereby’s approach has been anchored with a strong commit
 
 We provide contractual commitments to our customers regarding our compliance with applicable EU data protection law. This guarantees that:
 
-* We only process personal data as identified in our [Privacy Policy](/information/tos/privacy-policy/) in order to deliver our services
-* We carry out a thorough assessment before adding any sub-processors and only add those who meet our data protection standards
-* We implement technical and organizational measures, that are based on industry best practices, to secure the data of our customers as outlined in our [Data Processing Agreement](/information/dpa/) (DPA)
+* We only process personal data as identified in our [Privacy Policy](/information/tos/privacy-policy/) in order to deliver our services,
+* We carry out a thorough assessment before adding any sub-processors and only add those who meet our data protection standards,
+* We implement technical and organizational measures, that are based on industry best practices, to secure the data of our customers as outlined in our [Data Processing Agreement](/information/dpa/) (DPA), and
 * We assist customers in exercising their rights pertaining to data we process for providing our service (such as right to information, access, rectification, data portability and deletion).
 
 We continue to monitor any legal developments and guidance around GDPR from regulatory bodies and update our existing policies and agreements regularly. We will update you of any changes in our obligations so that you are always up-to-date.
