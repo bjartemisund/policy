@@ -98,7 +98,7 @@ By using the Service, You must enter into the Embedded Plan for Whereby. Details
 
 The pricing model subscribed to, for the license term of the Service is specified in the Order Form. All payments shall be made in advance or otherwise as set forth in the Order Form.
 
-Whereby will notify all paying users of material changes to the content, price and terms of the plan. Your continued use of the Services following the notice of such changes, constitutes Your acceptance of the changes.
+Whereby will notify all paying users of material changes to the content, price and Terms inclusive of the Order Form and or any agreement related hereto. Your continued use of the Services following the notice of such changes, constitutes Your acceptance of the changes.
 
 Whereby reserves the right to make amendments to the fees for the Service which will be effective upon any renewal of the license term for the Service. You will be informed of any amendments to the fees at the latest 1 month prior to the automatic renewal as described in Section 13 concerning Term and Termination.  If Whereby receives no objection in writing, within 1 month of this notification, Your continued use of the Services following the notice of such changes, constitutes Your acceptance of the changes.
 
@@ -148,7 +148,7 @@ You retain the rights to any User Content You submit, post or display on or thro
 
 ## 12. Term and termination
 
-The license term for which You are entitled to access and Use the Service is included in the Order Form (the “Initial Term”). Upon the expiry of the Initial Term, the term is automatically renewed for a successive period of 12 months (each 12 month being the “Renewal Term”) and will be governed by the Terms in this agreement, unless You communicate your intent to terminate the service in writing to customersuccess@whereby.com within 1 month prior to the expiry of the Initial Term. Upon the expiry of any Renewal Term, the Service will be automatically prolonged for a new Renewal Term if You have not sent a written notice of termination of the Service to Whereby in the aforementioned manner within 1 month prior to the expiry of the Renewal Term. \
+The license term for which You are entitled to access and Use the Service is included in the Order Form (the “Initial Term”). Upon the expiry of the Initial Term, the term is automatically renewed for a successive period of 12 months (each 12 month being the “Renewal Term”) and will be governed by the Terms in this agreement, unless You communicate your intent to terminate the service in writing to customersuccess@whereby.com within 1 month prior to the expiry of the Initial Term. Upon the expiry of any Renewal Term, the Service will be automatically prolonged for a new Renewal Term if You have not sent a written notice of termination of the Service to Whereby in the aforementioned manner within 1 month prior to the expiry of the Renewal Term.
 
 We shall send you a reminder for the renewal of license term to your account’s email address at least 15 days days before your billing date of the first month in the Renewed Term. Unless required by law in the state or country you reside, Whereby is not obligated to provide this notice. You acknowledge that (i) your failure to read or  (ii) your inability to receive creates no liability for Whereby or any third-party service.
 
