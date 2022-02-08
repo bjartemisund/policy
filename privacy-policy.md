@@ -5,7 +5,7 @@ slug: /information/tos/privacy-policy/
 ---
 # Privacy Policy
 
-Effective date: April 15th, 2022
+Effective date: February 15th, 2022
 
 This Privacy Statement (the "Privacy Statement") is provided by:
 
@@ -13,7 +13,7 @@ Whereby AS ("Whereby"/"we")
 
 Gate 1 no. 107, 6700 Måløy, Norway
 
-Business organization number NO 918470573
+Business organization number NO 997742346
 
 ## Introduction
 
