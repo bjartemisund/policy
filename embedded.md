@@ -6,7 +6,6 @@ slug: /information/tos/api/
 
 # Terms of Service for Whereby Embedded
 
-Last updated:  January 24,  2022\
 Effective date: February 15, 2022
 
 ## 1. Agreement and Definitions
