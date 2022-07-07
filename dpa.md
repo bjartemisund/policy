@@ -9,7 +9,7 @@ slug: /information/dpa/
 *For the purposes of Article 28(3) of Regulation 2016/679 (the GDPR)\
 (as based on Opinion 14/2019 by the European Data Protection Board).*
 
-This Data Protection Agreement ("DPA”) is part of the Whereby Terms of Service available at [https://whereby.com/information/tos/](https://whereby.com/information/tos/), between Customer and Whereby, or other agreement entered into between Customer and Whereby governing Customer’s use of the services provided by Whereby (the “Agreement”) when Whereby is processing personal data on behalf of the customer. The DPA have been entered into in order to meet the requirements of the GDPR and to ensure the protection of the rights of the data subject between the customer(“the data controller”) and Whereby AS with business address Gate 1, no. 107, 6700 Maaloy, Norway (“Whereby” or ”the data processor“).
+This Data Protection Agreement ("DPA”) is part of the Whereby Terms of Service available at [https://whereby.com/information/tos/api/](https://whereby.com/information/tos/), between Customer and Whereby, or other agreement entered into between Customer and Whereby governing Customer’s use of the services provided by Whereby (the “Agreement”) when Whereby is processing personal data on behalf of the customer. The DPA have been entered into in order to meet the requirements of the GDPR and to ensure the protection of the rights of the data subject between the customer(“the data controller”) and Whereby AS with business address Gate 1, no. 107, 6700 Måloy, Norway (“Whereby” or ”the data processor“).
 
 
 ## 1. Preamble
