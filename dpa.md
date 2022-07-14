@@ -86,7 +86,8 @@ The data processor shall therefore be responsible for requiring that the sub-pro
 ## 8. Assistance to the data controller
 
 1. Taking into account the nature of the processing, the data processor shall assist the data controller by appropriate technical and organisational measures, insofar as this is possible, in the fulfilment of the data controller’s obligations to respond to requests for exercising the data subject’s rights laid down in Chapter III GDPR.
-This entails that the data processor shall, insofar as this is possible, assist the data controller in the data controller’s compliance with:
+This entails that the data processor shall, insofar as this is possible, assist the data controller in the data controller’s compliance with: 
+
     * a. the right to be informed when collecting personal data from the data subject
     * b. the right to be informed when personal data have not been obtained from the data subject
     * c. the right of access by the data subject
