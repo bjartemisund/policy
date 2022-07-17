@@ -1,23 +1,24 @@
 ---
 title: Terms of Service
+description: Terms of Service – Read our Terms of Service to find out how we treat your data and information security, pricing, IP, integrations and how you can use our service.
 slug: /information/tos/
 ---
 # Terms of Service
 
-Last updated: December 1, 2019
+Looking for the API Terms of Service? [View Whereby Embedded Terms of Service](/information/tos/api/)
+
+Last updated: April 16, 2021
 
 ## 1. General
 
 These General Terms apply generally to the use of the service
 Whereby (the "Service" or “Whereby”), and constitute a contract
-between you and the company providing the Service, Video Communication
-Services AS, Gate 1 no. 101, 6700 Måløy, Norway ("The Company"). These
-terms govern your access to and use of the Whereby application and
-website (the "Service"), and any video, sound, text, graphics, or
-other materials sent, received, stored or otherwise appearing in the
-Service (collectively referred to as "Content"). Parts of the Service
-may display Content that is not Whereby's (“User Content”). Such
-content is the sole responsibility of the person or entity that has
+between you and the company providing the Service, Whereby AS, Gate 1 no. 107, 6700 Måløy, Norway ("The Company"). These
+terms govern your access to and use of the Service, and any video, sound,
+text, graphics, or other materials sent, received, stored or otherwise
+appearing in the Service (collectively referred to as "Content"). Parts
+of the Service may display Content that is not Whereby's (“User Content”).
+Such content is the sole responsibility of the person or entity that has
 made it available. When "Content" is used in this document, it refers
 to both content provided by Whereby and User Content collectively,
 unless otherwise specified.
@@ -25,18 +26,18 @@ unless otherwise specified.
 Where applicable, "The Company" shall also be understood as a
 reference to affiliates, suppliers, partners and other third parties
 Whereby may engage or otherwise cooperate with in connection with
-the Service
+the Service.
 
 By using Whereby you agree to these General Terms and the [Privacy
 Policy](https://whereby.com/information/tos/privacy-policy/)
-(collectively referred to as "Terms"). Please read them carefully. If
+(collectively referred to as "Terms"). If you are a customer of the Business plan or [Whereby Embedded](https://whereby.com/information/embedded/), the Terms also include a [Data Processing Agreement](https://whereby.helpscoutdocs.com/article/526-data-storage-and-security#dpa). Please read them carefully. If
 you don’t agree to the Terms, you can’t use Whereby.
 
 We may change these Terms at any time. We keep a historical record of
 all changes to our Terms on [GitHub](https://github.com/whereby/policy). If a change is material, we’ll let
 you know before it takes effect provided that we have your correct
 email address. By using Whereby on or after that effective date, you
-agree to the new Terms. If you don’t agree to them, you should [delete your account](https://whereby.helpscoutdocs.com/article/349-manage-your-account-profile-and-data)
+agree to the new Terms. If you don’t agree to them, you should [delete your account](https://whereby.helpscoutdocs.com/article/488-delete-account)
  before they take effect, otherwise your use of the
 Service and Content will be subject to the new Terms. For paid
 versions of the Services or Content that you have already purchased,
@@ -47,15 +48,15 @@ including price changes.
 
 Whereby is only for people **16 years old and over**. By using
 Whereby, you affirm that you are over 16. If we learn that someone
-under 16 is using Whereby, we’ll terminate their account. For use in educational settings or use of our Meetings API in your own service, [contact us](mailto:sales@whereby.com).
+under 16 is using Whereby, we’ll terminate their account. For use in educational settings or use of our [Embedded product](https://whereby.com/information/embedded/) in your own service, [contact us](mailto:sales@whereby.com).
 
 ## 3. How you can use the Service
 
 The Free version of Whereby is for legitimate individual use only (personal or business
-communication). Commercial use of Whereby as part of your own business offering requires one of our paid plans or the Meetings API. Your use of Whereby requires that you have hardware,
+communication). Commercial use of Whereby as part of your own business offering requires one of our paid plans or the [Embedded product](https://whereby.com/information/embedded/). Your use of Whereby requires that you have hardware,
 software and an Internet connection fulfilling certain recommended
 requirements, as may be specified in
-[our Support Center](https://support.whereby.com).
+[our Support Center](https://whereby.helpscoutdocs.com).
 If the recommended requirements are not met, you may potentially still
 use the Service, but normally with a lower quality or
 performance. Such reduced quality or performance will not give you the
@@ -172,7 +173,7 @@ of such laws or regulations.
 
 ### Charging for Use of the Services
 The Service is available as a Free plan for personal use, a paid Pro
-plan for professional use by individuals, and a Business plan for professional use by teams or organizations. We also offer a developer API ("Meetings API") as an extension of the Business plan, for customers who want to integrate Whereby in their own products or tools. 
+plan for professional use by individuals, and a Business plan for professional use by teams or organizations. We also offer a developer API ("[Whereby Embedded](https://whereby.com/information/embedded/)") as an extension of the Business plan, for customers who want to integrate Whereby in their own products or tools. 
 
 As a Free user, you can at any time choose to upgrade your account, which will give you
 additional Pro features in the rooms you own. The Pro features will
@@ -184,7 +185,7 @@ time.
 The Business plan requires creation of a custom subdomain (*company.whereby.com*) and allows you as the account creator to invite other users to create a profile in the account. By signing up for a Business account, you confirm that you are a legal representative, or are acting on behalf of such person, of the company name used in the account subdomain. You may not set up an account that impersonates or infringes on other’s trademarks. If your content or actions in the service or usage of our API violate any laws, including but not limited to spam, phishing, copyright infringement, defamation, computer attacks or fraud, we will terminate your service as soon as we find out.
 
 You will find an updated overview of the content of the plans on
-our [Pricing page](https://whereby.com/information/pricing). Details around use and billing of the Meetings API will be outlined in the Order Form you as a customer commit to. We will
+our [Pricing page](https://whereby.com/information/pricing/). Details around use and billing of the [Embedded product](https://whereby.com/information/embedded/) will be outlined in the Order Form you as a customer commit to. We will
 notify all paying users of material changes to the content, price and
 terms of the plan.
 
@@ -204,7 +205,7 @@ choose to reactivate your subscription before the account is downgraded, you wil
 Payment processing services for Whereby, including the processing
 and storing of credit card data, are provided by Stripe Payments
 Europe, Ltd. (“Stripe”) and are subject to the [Stripe Services
-Agreement — Norway](https://stripe.com/no/legal) (“Stripe Services
+Agreement — Norway](https://stripe.com/en-no/legal) (“Stripe Services
 Agreement”). By agreeing to these terms and continuing to operate as a
 customer of a paid Whereby plan, you agree to be bound by the Stripe Services
 Agreement, as the same may be modified by Stripe from time to time. As
@@ -223,7 +224,7 @@ Service, you agree that Whereby can use your personal data in
 accordance with our Privacy Policy and in accordance with the consents
 you have given us. The Privacy
 Policy is available on [this
-page](https://whereby.com/information/tos/privacy-policy). 
+page](https://whereby.com/information/tos/privacy-policy/).
 
 Whereby will comply with Norwegian and EU privacy regulations.
 
@@ -244,7 +245,10 @@ Settings page on https://whereby.com/user/profile.
 We may make available functionality allowing you to integrate other
 services (“Integration Service”) into Whereby. Usage of such
 services will be governed by the Terms applicable for the Integration
-Service used.
+Service used. Currently these include [YouTube Terms of Service](https://www.youtube.com/t/terms),
+[Google Drive Terms of Service](https://www.google.com/drive/terms-of-service/),
+[Atlassian Terms of Service](https://www.atlassian.com/legal/cloud-terms-of-service) and
+[Miro](https://miro.com/legal/terms-of-service/).
 
 When using the Service or third-party integrations to the Service, you
 may be exposed to commercial messages and advertisements. The Website
@@ -280,9 +284,10 @@ Whereby, or must procure that your licensors grant Whereby, a
 non-exclusive, royalty-free, perpetual, transferable, sub-licensable,
 irrevocable and worldwide license to use, reproduce, store, modify,
 distribute, publish and create derivative works of such User Content
-for any purpose, commercial or otherwise. You represent and warrant
-that you own any User Content submitted by you or that you otherwise
-are entitled to submit such User Content and to grant us such license.
+for the purposes of providing, monitoring and improving our the Service.
+You represent and warrant that you own any User Content submitted by you
+or that you otherwise are entitled to submit such User Content and to
+grant us such license.
 
 ## 9. Termination
 
@@ -293,8 +298,8 @@ have access to the Service for the remaining (pre-paid) billing
 period. The Company reserves the right to terminate the Service and
 the agreement with you with immediate effect upon written notice to
 you. Users of the paid plans may be entitled to refunds and to
-the extent this is described on our [Support Center](https://support.whereby.com). No users are entitled to refunds upon termination due to breach of
-these Terms. What we consider Fair Use is described in our Support Center. We reserve the right to terminate accounts with usage that exceed the [Fair Use Policy](https://whereby.helpscoutdocs.com/article/353-policies). 
+the extent this is described on our [Support Center](https://whereby.helpscoutdocs.com). No users are entitled to refunds upon termination due to breach of
+these Terms. What we consider Fair Use is described in our Support Center. We reserve the right to terminate accounts with usage that exceed the [Fair Use Policy](https://whereby.helpscoutdocs.com/article/527-policies#fair-use).
 
 
 ## 10. Miscellaneous
@@ -363,7 +368,7 @@ district court of Oslo, Norway as the legal venue.
 More questions?
 
 You will find answers to the most [frequently asked
-questions](https://support.whereby.com) about the Service on the
+questions](https://whereby.helpscoutdocs.com) about the Service on the
 Website, or contact our support team at support@whereby.com. Most
 questions will be answered within 24 hours. For questions related to
 these Terms, contact legal@whereby.com.

@@ -1,10 +1,9 @@
 ---
 title: Cookie Policy
+description: Cookie Policy – Read how we use cookies on our website, how they work effectively and enhance the user experience on the Whereby website for our customers.
 slug: /information/tos/cookie-policy/
 ---
 # Cookie Policy
-
-Last updated: May 25th, 2018
 
 ## General
 
@@ -50,7 +49,7 @@ cookies. If you block cookies, you may not be able to use all the
 features on our website, or have a worse experience. We have gathered
 information about how you can block and delete cookies and local
 storage elements in this
-[FAQ article](https://support.whereby.com/article/353-policies).
+[FAQ article](https://whereby.helpscoutdocs.com/article/527-policies).
 
 ## How we use cookies and local storage
 
@@ -58,7 +57,9 @@ Whereby uses cookies and local storage on our sites (Whereby and
 any subpages) and mobile applications. Any browser visiting these
 sites will receive cookies from us. Whereby uses cookies and similar
 technologies in our Websites and Services that help us collect
-information needed to run and deliver the Service.
+information needed to run and deliver the Service. We also place cookies in e-mails.
+
+We use cookies and similar tracking technologies of third parties, to learn whether someone who saw an ad in a marketing platform later engaged with our site, and provide our advertising partners with information about how the ad performed. The advertising partners we currently work with are Google, YouTube, Facebook, Instagram, Twitter and LinkedIn. We use and process personal data as part of these cookies on the basis of your consent.
 
 ## Cookies and local storage that we use
 
@@ -73,7 +74,7 @@ We use cookies for the following purposes:
 | Advertising                 | We may use cookies and similar tracking technologies of third parties, to learn whether someone who saw an ad in a marketing platform later visited our site and took an action (e.g. created an account or upgraded to a paid plan), and provide our advertising partners with information about how the ad performed. We may also work with advertising partners to show you an ad off Whereby, after you've visited our site or application. |
 
 For the full list of cookies that Whereby and our providers use, see
-our [up-to-date cookie list](https://support.whereby.com/article/353-policies#cookies).
+our [up-to-date cookie list](https://whereby.helpscoutdocs.com/article/527-policies#cookies).
 
 ## Integrations
 
