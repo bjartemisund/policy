@@ -3,6 +3,7 @@ title: Cookie Policy
 description: Cookie Policy – Read how we use cookies on our website, how they work effectively and enhance the user experience on the Whereby website for our customers.
 slug: /information/tos/cookie-policy/
 ---
+
 # Cookie Policy
 
 ## General
@@ -65,12 +66,12 @@ We use cookies and similar tracking technologies of third parties, to learn whet
 
 We use cookies for the following purposes:
 
-| Categories of use           | Description |
-| --------------------------- | ----------- |
-| Authentication              | We use local storage to identify you when you visit our website and to authenticate calls our web application makes to the backend servers on your behalf. If you're signed in to Whereby, this helps us show you the right information and personalize your experience. (Local storage element used for this purpose is: “CredentialsStorage”) |
-| Analysis                    | We use cookies to help us analyze the usage patterns and performance of our website and services. We use services from Amplitude and Google Analytics for this purpose, see the cookie list for more details. |
-| Payment and Fraud detection | We use cookies to enable easy payment processing and to detect fraud through our payment processor Stripe Payments Europe, Ltd. (“Stripe”). See the cookie list for cookies related to this. |
-| Integrations                | We may use cookies in your browser to access and share content from third-party Integration Services that you choose to enable in the Service. Some integrations will not work for users who have blocked third-party cookies in their browser, as it will then not be possible for us to open the content from the Integration Service for them. (Cookies used for this purpose depends on which Integration Services you have enabled). |
+| Categories of use           | Description                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Authentication              | We use local storage to identify you when you visit our website and to authenticate calls our web application makes to the backend servers on your behalf. If you're signed in to Whereby, this helps us show you the right information and personalize your experience. (Local storage element used for this purpose is: “CredentialsStorage”)                                                                                                 |
+| Analysis                    | We use cookies to help us analyze the usage patterns and performance of our website and services. We use services from Posthog and Google Analytics for this purpose, see the cookie list for more details.                                                                                                                                                                                                                                     |
+| Payment and Fraud detection | We use cookies to enable easy payment processing and to detect fraud through our payment processor Stripe Payments Europe, Ltd. (“Stripe”). See the cookie list for cookies related to this.                                                                                                                                                                                                                                                    |
+| Integrations                | We may use cookies in your browser to access and share content from third-party Integration Services that you choose to enable in the Service. Some integrations will not work for users who have blocked third-party cookies in their browser, as it will then not be possible for us to open the content from the Integration Service for them. (Cookies used for this purpose depends on which Integration Services you have enabled).       |
 | Advertising                 | We may use cookies and similar tracking technologies of third parties, to learn whether someone who saw an ad in a marketing platform later visited our site and took an action (e.g. created an account or upgraded to a paid plan), and provide our advertising partners with information about how the ad performed. We may also work with advertising partners to show you an ad off Whereby, after you've visited our site or application. |
 
 For the full list of cookies that Whereby and our providers use, see
